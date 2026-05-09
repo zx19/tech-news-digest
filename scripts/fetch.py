@@ -260,7 +260,7 @@ def ai_score(items: list[dict]) -> list[dict]:
             if attempt > 0:
                 time.sleep(2 ** attempt)
             resp = requests.post(
-                'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent',
+                'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent',
                 headers={'Content-Type': 'application/json'},
                 params={'key': api_key},
                 json={'contents': [{'parts': [{'text': prompt}]}]},
