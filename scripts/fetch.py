@@ -45,17 +45,42 @@ def normalize_score(source: str, raw_score: int) -> float:
 def fetch_page_description(url: str) -> str:
     """Try to extract meta description from target page."""
     try:
-        resp = requests.get(url, timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
+        resp = requests.get(url, timeout=8, headers={'User-Agent': 'Mozilla/5.0'})
         resp.raise_for_status()
         text = resp.text
+        candidates = []
+        # Try og:description first (usually higher quality)
+        m = re.search(
+            r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)',
+            text, re.IGNORECASE,
+        )
+        if m:
+            candidates.append(m.group(1))
         # Try meta description
-        m = re.search(r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)', text, re.IGNORECASE)
+        m = re.search(
+            r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)',
+            text, re.IGNORECASE,
+        )
         if m:
-            return re.sub(r'\s+', ' ', m.group(1)).strip()[:250]
-        # Try og:description
-        m = re.search(r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)', text, re.IGNORECASE)
+            candidates.append(m.group(1))
+        # Try twitter:description
+        m = re.search(
+            r'<meta[^>]+name=["\']twitter:description["\'][^>]+content=["\']([^"\']+)',
+            text, re.IGNORECASE,
+        )
         if m:
-            return re.sub(r'\s+', ' ', m.group(1)).strip()[:250]
+            candidates.append(m.group(1))
+
+        for raw in candidates:
+            desc = re.sub(r'\s+', ' ', raw).strip()
+            # Filter out garbage descriptions
+            if len(desc) < 20:
+                continue
+            if desc.lower() in {'comments', 'login', 'sign up', 'home', 'menu'}:
+                continue
+            if re.match(r'^\d+\s+(comments|shares|likes)$', desc, re.IGNORECASE):
+                continue
+            return desc[:250]
     except Exception:
         pass
     return ''
