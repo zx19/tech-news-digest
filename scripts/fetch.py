@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import os
 import re
+from collections import Counter
 from datetime import datetime, timedelta
 from urllib.parse import urlparse
 
@@ -19,6 +20,9 @@ RSS_SOURCES = {
     'infoq_cn': 'https://www.infoq.cn/feed',
 }
 
+MAX_PER_SOURCE = 3
+TOP_N = 15
+
 
 def normalize_url(url: str) -> str:
     u = urlparse(url)
@@ -26,17 +30,35 @@ def normalize_url(url: str) -> str:
 
 
 def normalize_score(source: str, raw_score: int) -> float:
-    """把各源原始 score 归一化到 0-100 相近量级，避免某一源碾压。"""
+    """Normalize raw scores from different sources to comparable 0-100 scale."""
     if source == 'github':
-        # 10000 stars → 80 分; 1000 stars → 10 分
-        return min(raw_score / 125, 80)
+        return min(raw_score / 150, 60)  # 9000 stars → 60
     if source == 'hackernews':
-        return min(raw_score, 100)
+        return min(raw_score * 0.4, 50)  # 125 points → 50
     if source == 'lobsters':
-        return 35  # Lobsters 邀请制，本身已筛选
+        return 40
     if source == 'infoq_cn':
-        return 15
+        return 25
     return 10
+
+
+def fetch_page_description(url: str) -> str:
+    """Try to extract meta description from target page."""
+    try:
+        resp = requests.get(url, timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
+        resp.raise_for_status()
+        text = resp.text
+        # Try meta description
+        m = re.search(r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)', text, re.IGNORECASE)
+        if m:
+            return re.sub(r'\s+', ' ', m.group(1)).strip()[:250]
+        # Try og:description
+        m = re.search(r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)', text, re.IGNORECASE)
+        if m:
+            return re.sub(r'\s+', ' ', m.group(1)).strip()[:250]
+    except Exception:
+        pass
+    return ''
 
 
 def fetch_github_trending() -> list[dict]:
@@ -52,11 +74,12 @@ def fetch_github_trending() -> list[dict]:
         items = []
         for item in resp.json().get('items', []):
             stars = item.get('stargazers_count', 0)
+            desc = item.get('description') or ''
             items.append({
                 'source': 'github',
                 'title': f"[GitHub] {item['full_name']}",
                 'url': item['html_url'],
-                'desc': item.get('description') or '',
+                'desc': desc,
                 'score': normalize_score('github', stars),
             })
         return items
@@ -83,11 +106,15 @@ def fetch_hackernews() -> list[dict]:
             score = item.get('score', 0)
             if score < 50:
                 continue
+            url = item.get('url') or f'https://news.ycombinator.com/item?id={hid}'
+            title = item.get('title', '')
+            # HN API has no description; try to fetch from target page
+            desc = fetch_page_description(url) if url.startswith('http') else ''
             items.append({
                 'source': 'hackernews',
-                'title': item.get('title', ''),
-                'url': item.get('url') or f'https://news.ycombinator.com/item?id={hid}',
-                'desc': '',
+                'title': title,
+                'url': url,
+                'desc': desc,
                 'score': normalize_score('hackernews', score),
             })
         return items
@@ -101,11 +128,12 @@ def fetch_rss(name: str, url: str) -> list[dict]:
         fp = feedparser.parse(url)
         items = []
         for entry in getattr(fp, 'entries', [])[:15]:
+            summary = re.sub(r'<[^>]+>', '', entry.get('summary', ''))[:300]
             items.append({
                 'source': name,
                 'title': entry.get('title', ''),
                 'url': entry.link,
-                'desc': re.sub(r'<[^>]+>', '', entry.get('summary', ''))[:300],
+                'desc': summary,
                 'score': normalize_score(name, 0),
             })
         return items
@@ -120,10 +148,8 @@ def fetch_all() -> list[dict]:
     raw.extend(fetch_hackernews())
     for name, url in RSS_SOURCES.items():
         raw.extend(fetch_rss(name, url))
-    # 打印各源数量，便于调试
-    from collections import Counter
     counts = Counter(x['source'] for x in raw)
-    print(f"[fetch] counts: {dict(counts)}")
+    print(f'[fetch] counts: {dict(counts)}')
     return raw
 
 
@@ -140,12 +166,26 @@ def cross_validate(items: list[dict]) -> list[dict]:
             'title': group[0]['title'],
             'sources': list({x['source'] for x in group}),
             'desc': max((x['desc'] for x in group), key=len, default=''),
-            'score': sum(x.get('score', 0) for x in group),
+            'score': max(x['score'] for x in group),  # use max instead of sum
         }
         if len(merged['sources']) >= 2:
-            merged['score'] += 50
+            merged['score'] += 20  # cross-validation bonus
         validated.append(merged)
     return validated
+
+
+def apply_source_cap(items: list[dict], cap: int) -> list[dict]:
+    """Keep at most `cap` items per source, preserving overall rank order."""
+    source_counts: dict[str, int] = {}
+    result = []
+    for item in items:
+        src = item.get('source', 'unknown')
+        if src not in source_counts:
+            source_counts[src] = 0
+        if source_counts[src] < cap:
+            result.append(item)
+            source_counts[src] += 1
+    return result
 
 
 def ai_score(items: list[dict]) -> list[dict]:
@@ -177,7 +217,6 @@ def ai_score(items: list[dict]) -> list[dict]:
         resp.raise_for_status()
         text = resp.json()['candidates'][0]['content']['parts'][0]['text']
 
-        # Extract JSON array from possible markdown code block
         match = re.search(r'\[.*\]', text, re.DOTALL)
         if not match:
             raise ValueError('No JSON array found in response')
@@ -222,7 +261,9 @@ def main() -> None:
     raw = fetch_all()
     validated = cross_validate(raw)
     scored = ai_score(validated)
-    top = scored[:8]
+    # Apply per-source cap to enforce diversity
+    capped = apply_source_cap(scored, MAX_PER_SOURCE)
+    top = capped[:TOP_N]
 
     digest = {
         'date': datetime.now().strftime('%Y-%m-%d'),
