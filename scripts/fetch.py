@@ -34,7 +34,7 @@ def normalize_url(url: str) -> str:
 def normalize_score(source: str, raw_score: int) -> float:
     """Normalize raw scores from different sources to comparable 0-100 scale."""
     if source == 'github':
-        return min(raw_score / 150, 60)  # 9000 stars → 60
+        return min(raw_score / 100, 50)  # 5000 stars → 50
     if source == 'hackernews':
         return min(raw_score * 0.4, 50)  # 125 points → 50
     if source == 'lobsters':
@@ -42,9 +42,9 @@ def normalize_score(source: str, raw_score: int) -> float:
     if source == 'infoq_cn':
         return 35
     if source == 'devto':
-        return 30
+        return 35
     if source == 'ruanyf':
-        return 45  # 周刊质量高，保底高
+        return 40
     return 10
 
 
@@ -171,7 +171,17 @@ def fetch_rss(name: str, url: str) -> list[dict]:
     try:
         fp = feedparser.parse(url)
         items = []
-        for entry in getattr(fp, 'entries', [])[:15]:
+        cutoff = datetime.now() - timedelta(days=7)
+        for entry in getattr(fp, 'entries', []):
+            # Date filter: skip entries older than 7 days (except for ruanyf we keep top 3 recent)
+            published = entry.get('published_parsed') or entry.get('updated_parsed')
+            if published:
+                try:
+                    dt = datetime(*published[:6])
+                    if dt < cutoff and name != 'ruanyf':
+                        continue
+                except Exception:
+                    pass
             summary = _clean_rss_summary(entry.get('summary', ''))
             items.append({
                 'source': name,
@@ -180,6 +190,11 @@ def fetch_rss(name: str, url: str) -> list[dict]:
                 'desc': summary,
                 'score': normalize_score(name, 0),
             })
+            if len(items) >= 15:
+                break
+        # For ruanyf, only keep the most recent 1 issue
+        if name == 'ruanyf':
+            items = items[:1]
         return items
     except Exception as e:
         print(f'[warn] {name} failed: {e}')

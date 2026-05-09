@@ -9,10 +9,10 @@
       "desc": "",
       "tag": "综合",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "lobsters",
+        "hackernews"
       ],
-      "score": 56.0
+      "score": 70.0
     },
     {
       "rank": 2,
@@ -49,6 +49,17 @@
     },
     {
       "rank": 5,
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "desc": "The royal couple shared photographs of Sir David and wished him a very happy birthday.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
       "desc": "",
@@ -59,7 +70,7 @@
       "score": 50.0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Just Fucking Use Go",
       "url": "https://blainsmith.com/articles/just-fucking-use-go",
       "desc": "",
@@ -67,10 +78,10 @@
       "sources": [
         "lobsters"
       ],
-      "score": 47.0
+      "score": 40.0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Stop MITM on the first SSH connection, on any VPS or cloud provider",
       "url": "https://www.joachimschipper.nl/stop%20mitm%20on%20the%20first%20ssh%20connection,%20on%20any%20vps%20or%20cloud%20provider.html",
       "desc": "",
@@ -78,10 +89,10 @@
       "sources": [
         "lobsters"
       ],
-      "score": 47.0
+      "score": 40.0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "NixOS and Secrets",
       "url": "https://isabelroses.com/blog/nixos-and-secrets",
       "desc": "",
@@ -89,10 +100,10 @@
       "sources": [
         "lobsters"
       ],
-      "score": 47.0
+      "score": 40.0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "What We Lost the Last Time Code Got Cheap",
       "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
       "desc": "",
@@ -100,73 +111,62 @@
       "sources": [
         "lobsters"
       ],
-      "score": 47.0
-    },
-    {
-      "rank": 10,
-      "title": "Dirty Frag: Universal Linux LPE",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
+      "score": 40.0
     },
     {
       "rank": 11,
-      "title": "[GitHub] V4bel/dirtyfrag",
-      "url": "https://github.com/v4bel/dirtyfrag",
-      "desc": "",
+      "title": "科技爱好者周刊（第 395 期）：软件开发的第三种方式",
+      "url": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html",
+      "desc": "这里记录每周值得分享的科技内容，周五发布。...",
       "tag": "综合",
       "sources": [
-        "github"
+        "ruanyf"
       ],
-      "score": 40.9
+      "score": 40.0
     },
     {
       "rank": 12,
-      "title": "[GitHub] antirez/ds4",
-      "url": "https://github.com/antirez/ds4",
-      "desc": "DeepSeek 4 Flash local inference engine for Metal",
-      "tag": "综合",
+      "title": "Cloudflare构建了面向LLM的高性能基础设施",
+      "url": "https://www.infoq.cn/article/wvrsqdh2uloyeu4f6gb0",
+      "desc": "",
+      "tag": "AI/ML",
       "sources": [
-        "github"
+        "infoq_cn"
       ],
-      "score": 40.2
+      "score": 35.0
     },
     {
       "rank": 13,
-      "title": "[GitHub] aattaran/deepclaude",
-      "url": "https://github.com/aattaran/deepclaude",
-      "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "title": "技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践",
+      "url": "https://www.infoq.cn/article/yawwcrb4ebyrshyvaw2q",
+      "desc": "",
       "tag": "AI/ML",
       "sources": [
-        "github"
+        "infoq_cn"
       ],
-      "score": 38.3
+      "score": 35.0
     },
     {
       "rank": 14,
-      "title": "[GitHub] strukto-ai/mirage",
-      "url": "https://github.com/strukto-ai/mirage",
-      "desc": "A Unified Virtual Filesystem For AI Agents",
+      "title": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+      "url": "https://www.infoq.cn/article/oakoq3ctjybk1fd5wxjr",
+      "desc": "",
       "tag": "AI/ML",
       "sources": [
-        "github"
+        "infoq_cn"
       ],
-      "score": 38.0
+      "score": 35.0
     },
     {
       "rank": 15,
-      "title": "[GitHub] yaojingang/yao-open-prompts",
-      "url": "https://github.com/yaojingang/yao-open-prompts",
-      "desc": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-      "tag": "综合",
+      "title": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+      "url": "https://www.infoq.cn/article/w3vmt9adbhyilgiejz9y",
+      "desc": "",
+      "tag": "AI/ML",
       "sources": [
-        "github"
+        "infoq_cn"
       ],
-      "score": 37.8
+      "score": 35.0
     }
   ]
 }
