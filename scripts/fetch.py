@@ -14,8 +14,7 @@ import requests
 
 
 # ========== Sources ==========
-SOURCES = {
-    'hackernews': 'https://hnrss.org/frontpage?points=50',
+RSS_SOURCES = {
     'lobsters': 'https://lobste.rs/rss',
     'infoq_cn': 'https://www.infoq.cn/feed',
 }
@@ -24,6 +23,20 @@ SOURCES = {
 def normalize_url(url: str) -> str:
     u = urlparse(url)
     return f'{u.scheme}://{u.netloc}{u.path}'.rstrip('/').lower()
+
+
+def normalize_score(source: str, raw_score: int) -> float:
+    """把各源原始 score 归一化到 0-100 相近量级，避免某一源碾压。"""
+    if source == 'github':
+        # 10000 stars → 80 分; 1000 stars → 10 分
+        return min(raw_score / 125, 80)
+    if source == 'hackernews':
+        return min(raw_score, 100)
+    if source == 'lobsters':
+        return 35  # Lobsters 邀请制，本身已筛选
+    if source == 'infoq_cn':
+        return 15
+    return 10
 
 
 def fetch_github_trending() -> list[dict]:
@@ -38,16 +51,48 @@ def fetch_github_trending() -> list[dict]:
         resp.raise_for_status()
         items = []
         for item in resp.json().get('items', []):
+            stars = item.get('stargazers_count', 0)
             items.append({
                 'source': 'github',
                 'title': f"[GitHub] {item['full_name']}",
                 'url': item['html_url'],
                 'desc': item.get('description') or '',
-                'score': item.get('stargazers_count', 0),
+                'score': normalize_score('github', stars),
             })
         return items
     except Exception as e:
         print(f'[warn] github trending failed: {e}')
+        return []
+
+
+def fetch_hackernews() -> list[dict]:
+    """Fetch HN top stories via official API (score >= 50)."""
+    try:
+        top_ids = requests.get(
+            'https://hacker-news.firebaseio.com/v0/topstories.json',
+            timeout=30,
+        ).json()[:20]
+        items = []
+        for hid in top_ids:
+            item = requests.get(
+                f'https://hacker-news.firebaseio.com/v0/item/{hid}.json',
+                timeout=30,
+            ).json()
+            if not item:
+                continue
+            score = item.get('score', 0)
+            if score < 50:
+                continue
+            items.append({
+                'source': 'hackernews',
+                'title': item.get('title', ''),
+                'url': item.get('url') or f'https://news.ycombinator.com/item?id={hid}',
+                'desc': '',
+                'score': normalize_score('hackernews', score),
+            })
+        return items
+    except Exception as e:
+        print(f'[warn] hackernews failed: {e}')
         return []
 
 
@@ -56,16 +101,12 @@ def fetch_rss(name: str, url: str) -> list[dict]:
         fp = feedparser.parse(url)
         items = []
         for entry in getattr(fp, 'entries', [])[:15]:
-            score = 0
-            if name == 'hackernews':
-                # hnrss includes <hn:score> in some feeds; fallback to comments count
-                score = int(getattr(entry, 'hn_score', 0) or getattr(entry, 'comments', 0))
             items.append({
                 'source': name,
                 'title': entry.get('title', ''),
                 'url': entry.link,
                 'desc': re.sub(r'<[^>]+>', '', entry.get('summary', ''))[:300],
-                'score': score,
+                'score': normalize_score(name, 0),
             })
         return items
     except Exception as e:
@@ -76,8 +117,13 @@ def fetch_rss(name: str, url: str) -> list[dict]:
 def fetch_all() -> list[dict]:
     raw: list[dict] = []
     raw.extend(fetch_github_trending())
-    for name, url in SOURCES.items():
+    raw.extend(fetch_hackernews())
+    for name, url in RSS_SOURCES.items():
         raw.extend(fetch_rss(name, url))
+    # 打印各源数量，便于调试
+    from collections import Counter
+    counts = Counter(x['source'] for x in raw)
+    print(f"[fetch] counts: {dict(counts)}")
     return raw
 
 
