@@ -186,10 +186,12 @@ def cross_validate(items: list[dict]) -> list[dict]:
 
     validated = []
     for url, group in groups.items():
+        sources = list({x['source'] for x in group})
         merged = {
             'url': url,
             'title': group[0]['title'],
-            'sources': list({x['source'] for x in group}),
+            'source': sources[0],  # primary source for per-source cap
+            'sources': sources,
             'desc': max((x['desc'] for x in group), key=len, default=''),
             'score': max(x['score'] for x in group),  # use max instead of sum
         }
@@ -231,29 +233,40 @@ def ai_score(items: list[dict]) -> list[dict]:
         + '\n'.join(f"{i}. {x['title']}" for i, x in enumerate(batch))
     )
 
-    try:
-        resp = requests.post(
-            'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent',
-            headers={'Content-Type': 'application/json'},
-            params={'key': api_key},
-            json={'contents': [{'parts': [{'text': prompt}]}]},
-            timeout=60,
-        )
-        resp.raise_for_status()
-        text = resp.json()['candidates'][0]['content']['parts'][0]['text']
+    # Retry with exponential backoff for rate limits
+    import time
+    scores = None
+    for attempt in range(3):
+        try:
+            if attempt > 0:
+                time.sleep(2 ** attempt)
+            resp = requests.post(
+                'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent',
+                headers={'Content-Type': 'application/json'},
+                params={'key': api_key},
+                json={'contents': [{'parts': [{'text': prompt}]}]},
+                timeout=60,
+            )
+            resp.raise_for_status()
+            text = resp.json()['candidates'][0]['content']['parts'][0]['text']
 
-        match = re.search(r'\[.*\]', text, re.DOTALL)
-        if not match:
-            raise ValueError('No JSON array found in response')
-        scores = json.loads(match.group())
+            match = re.search(r'\[.*\]', text, re.DOTALL)
+            if not match:
+                raise ValueError('No JSON array found in response')
+            scores = json.loads(match.group())
+            break
+        except Exception as e:
+            print(f'[warn] AI scoring attempt {attempt + 1} failed: {e}')
+            scores = None
 
+    if scores:
         for s in scores:
             idx = s.get('index', 0)
             if 0 <= idx < len(batch):
                 batch[idx]['ai_score'] = s.get('score', 50)
                 batch[idx]['ai_reason'] = s.get('reason', '')
-    except Exception as e:
-        print(f'[warn] AI scoring failed: {e}')
+    else:
+        print('[warn] All AI scoring attempts failed; using heuristic fallback')
         for item in batch:
             item['ai_score'] = 50
 
