@@ -18,9 +18,11 @@ import requests
 RSS_SOURCES = {
     'lobsters': 'https://lobste.rs/rss',
     'infoq_cn': 'https://www.infoq.cn/feed',
+    'devto': 'https://dev.to/feed',
+    'ruanyf': 'https://www.ruanyifeng.com/blog/atom.xml',
 }
 
-MAX_PER_SOURCE = 3
+MAX_PER_SOURCE = 5
 TOP_N = 15
 
 
@@ -38,7 +40,11 @@ def normalize_score(source: str, raw_score: int) -> float:
     if source == 'lobsters':
         return 40
     if source == 'infoq_cn':
-        return 25
+        return 35
+    if source == 'devto':
+        return 30
+    if source == 'ruanyf':
+        return 45  # 周刊质量高，保底高
     return 10
 
 
@@ -148,12 +154,25 @@ def fetch_hackernews() -> list[dict]:
         return []
 
 
+def _clean_rss_summary(text: str) -> str:
+    """Remove HTML tags and filter out garbage descriptions."""
+    desc = re.sub(r'<[^>]+>', '', text).strip()
+    # Filter common garbage from RSS summaries
+    if desc.lower() in {'comments', 'login', 'sign up', 'home', 'menu', 'read more'}:
+        return ''
+    if re.match(r'^\d+\s+(comments?|shares?|likes?)$', desc, re.IGNORECASE):
+        return ''
+    if len(desc) < 10:
+        return ''
+    return desc[:300]
+
+
 def fetch_rss(name: str, url: str) -> list[dict]:
     try:
         fp = feedparser.parse(url)
         items = []
         for entry in getattr(fp, 'entries', [])[:15]:
-            summary = re.sub(r'<[^>]+>', '', entry.get('summary', ''))[:300]
+            summary = _clean_rss_summary(entry.get('summary', ''))
             items.append({
                 'source': name,
                 'title': entry.get('title', ''),
