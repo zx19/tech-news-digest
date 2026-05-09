@@ -1,31 +1,21 @@
 {
   "date": "2026-05-09",
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "rank": 1,
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "url": "https://btxx.org/posts/memory",
       "desc": "",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
-      "score": 83.6
+      "score": 56.0
     },
     {
       "rank": 2,
-      "title": "Dirty Frag: Universal Linux LPE",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 81.3
-    },
-    {
-      "rank": 3,
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
       "desc": "The company that decides whether you&#039;re a bot now also requires you run its software to prove otherwise.",
@@ -33,21 +23,21 @@
       "sources": [
         "hackernews"
       ],
-      "score": 78.0
+      "score": 50.0
     },
     {
-      "rank": 4,
-      "title": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story",
-      "desc": "The story of CVE-2025-55182 (React2Shell)",
-      "tag": "综合",
+      "rank": 3,
+      "title": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem",
+      "desc": "Media over QUIC: There are ways to do voice AI without being traumatized by WebRTC.",
+      "tag": "AI/ML",
       "sources": [
         "hackernews"
       ],
-      "score": 76.6
+      "score": 50.0
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "desc": "A week ago the Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for L",
@@ -55,18 +45,29 @@
       "sources": [
         "hackernews"
       ],
-      "score": 74.5
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "desc": "The royal couple shared photographs of Sir David and wished him a very happy birthday.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
     },
     {
       "rank": 6,
-      "title": "[GitHub] V4bel/dirtyfrag",
-      "url": "https://github.com/v4bel/dirtyfrag",
+      "title": "Just Fucking Use Go",
+      "url": "https://blainsmith.com/articles/just-fucking-use-go",
       "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "lobsters"
       ],
-      "score": 73.4
+      "score": 47.0
     },
     {
       "rank": 7,
@@ -77,33 +78,10 @@
       "sources": [
         "lobsters"
       ],
-      "score": 71.5
+      "score": 47.0
     },
     {
       "rank": 8,
-      "title": "AWS North Virginia data center outage – recovery to take hours",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "desc": "The cloud platform says it is currently working to resolve the outage, caused by overheating at a data center in Northern Virginia.",
-      "tag": "云原生",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 71.0
-    },
-    {
-      "rank": 9,
-      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-      "url": "https://btxx.org/posts/memory",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters",
-        "hackernews"
-      ],
-      "score": 70.0
-    },
-    {
-      "rank": 10,
       "title": "NixOS and Secrets",
       "url": "https://isabelroses.com/blog/nixos-and-secrets",
       "desc": "",
@@ -111,7 +89,29 @@
       "sources": [
         "lobsters"
       ],
-      "score": 64.5
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "I learned something about GPUs today",
+      "url": "https://foon.uk/blackshift-sand-bug",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "[GitHub] V4bel/dirtyfrag",
+      "url": "https://github.com/v4bel/dirtyfrag",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 44.1
     },
     {
       "rank": 11,
@@ -122,43 +122,10 @@
       "sources": [
         "github"
       ],
-      "score": 64.0
+      "score": 43.2
     },
     {
       "rank": 12,
-      "title": "[GitHub] lightseekorg/tokenspeed",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 61.9
-    },
-    {
-      "rank": 13,
-      "title": "What We Lost the Last Time Code Got Cheap",
-      "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 61.0
-    },
-    {
-      "rank": 14,
-      "title": "[GitHub] raiyanyahya/how-to-train-your-gpt",
-      "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
-      "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
-      "tag": "AI/ML",
-      "sources": [
-        "github"
-      ],
-      "score": 58.3
-    },
-    {
-      "rank": 15,
       "title": "[GitHub] aattaran/deepclaude",
       "url": "https://github.com/aattaran/deepclaude",
       "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
@@ -166,7 +133,29 @@
       "sources": [
         "github"
       ],
-      "score": 57.4
+      "score": 39.9
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] strukto-ai/mirage",
+      "url": "https://github.com/strukto-ai/mirage",
+      "desc": "A Unified Virtual Filesystem For AI Agents",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 39.5
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] yaojingang/yao-open-prompts",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "desc": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 39.2
     }
   ]
 }
