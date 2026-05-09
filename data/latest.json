@@ -1,18 +1,17 @@
 {
   "date": "2026-05-09",
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "rank": 1,
-      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-      "url": "https://btxx.org/posts/memory",
-      "desc": "",
-      "tag": "综合",
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro",
+      "desc": "We are all having to keep revising upwards our assessments of the mathematical capabilities of large language models. I have just made a fairly large revision as a result of ChatGPT 5.5 Pro, to whi…",
+      "tag": "AI/ML",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "hackernews"
       ],
-      "score": 56.0
+      "score": 50.0
     },
     {
       "rank": 2,
@@ -27,7 +26,18 @@
     },
     {
       "rank": 3,
-      "title": "OpenAI's WebRTC problem",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "OpenAI’s WebRTC problem",
       "url": "https://moq.dev/blog/webrtc-is-the-problem",
       "desc": "Media over QUIC: There are ways to do voice AI without being traumatized by WebRTC.",
       "tag": "AI/ML",
@@ -37,21 +47,10 @@
       "score": 50.0
     },
     {
-      "rank": 4,
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "desc": "A week ago the Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for L",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
       "rank": 5,
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "desc": "The royal couple shared photographs of Sir David and wished him a very happy birthday.",
+      "title": "Mythical Man Month",
+      "url": "https://martinfowler.com/bliki/mythicalmanmonth.html",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -71,10 +70,10 @@
     },
     {
       "rank": 7,
-      "title": "Stop MITM on the first SSH connection, on any VPS or cloud provider",
-      "url": "https://www.joachimschipper.nl/stop%20mitm%20on%20the%20first%20ssh%20connection,%20on%20any%20vps%20or%20cloud%20provider.html",
-      "desc": "",
-      "tag": "云原生",
+      "title": "Steering Zig Fmt",
+      "url": "https://matklad.github.io/2026/05/08/steering-zig-fmt.html",
+      "desc": "I really like the idea of accounting for newline + numbers per line! Any other similar features people have noticed and liked in other language formatters?\nComments",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -93,17 +92,6 @@
     },
     {
       "rank": 9,
-      "title": "I learned something about GPUs today",
-      "url": "https://foon.uk/blackshift-sand-bug",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 10,
       "title": "[GitHub] V4bel/dirtyfrag",
       "url": "https://github.com/v4bel/dirtyfrag",
       "desc": "",
@@ -111,10 +99,10 @@
       "sources": [
         "github"
       ],
-      "score": 44.1
+      "score": 44.3
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "[GitHub] antirez/ds4",
       "url": "https://github.com/antirez/ds4",
       "desc": "DeepSeek 4 Flash local inference engine for Metal",
@@ -122,10 +110,10 @@
       "sources": [
         "github"
       ],
-      "score": 43.2
+      "score": 44.0
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "[GitHub] aattaran/deepclaude",
       "url": "https://github.com/aattaran/deepclaude",
       "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
@@ -133,10 +121,10 @@
       "sources": [
         "github"
       ],
-      "score": 39.9
+      "score": 40.0
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "[GitHub] strukto-ai/mirage",
       "url": "https://github.com/strukto-ai/mirage",
       "desc": "A Unified Virtual Filesystem For AI Agents",
@@ -144,10 +132,10 @@
       "sources": [
         "github"
       ],
-      "score": 39.5
+      "score": 39.6
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "[GitHub] yaojingang/yao-open-prompts",
       "url": "https://github.com/yaojingang/yao-open-prompts",
       "desc": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
@@ -155,7 +143,7 @@
       "sources": [
         "github"
       ],
-      "score": 39.2
+      "score": 39.3
     }
   ]
 }
