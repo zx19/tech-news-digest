@@ -250,7 +250,8 @@ def apply_source_cap(items: list[dict], cap: int) -> list[dict]:
 
 
 def ai_score(items: list[dict]) -> list[dict]:
-    api_key = os.getenv('GEMINI_API_KEY', '')
+    """Score items via DeepSeek API (OpenAI-compatible). Falls back to heuristics if no key."""
+    api_key = os.getenv('DEEPSEEK_API_KEY', '') or os.getenv('GEMINI_API_KEY', '')
     if not api_key:
         for item in items:
             item['final_score'] = float(item.get('score', 0))
@@ -267,7 +268,6 @@ def ai_score(items: list[dict]) -> list[dict]:
         + '\n'.join(f"{i}. {x['title']}" for i, x in enumerate(batch))
     )
 
-    # Retry with exponential backoff for rate limits
     import time
     scores = None
     for attempt in range(3):
@@ -275,16 +275,23 @@ def ai_score(items: list[dict]) -> list[dict]:
             if attempt > 0:
                 time.sleep(2 ** attempt)
             resp = requests.post(
-                'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent',
-                headers={'Content-Type': 'application/json'},
-                params={'key': api_key},
-                json={'contents': [{'parts': [{'text': prompt}]}]},
+                'https://api.deepseek.com/chat/completions',
+                headers={
+                    'Content-Type': 'application/json',
+                    'Authorization': f'Bearer {api_key}',
+                },
+                json={
+                    'model': 'deepseek-chat',
+                    'messages': [{'role': 'user', 'content': prompt}],
+                    'response_format': {'type': 'json_object'},
+                    'max_tokens': 2048,
+                },
                 timeout=60,
             )
             resp.raise_for_status()
-            text = resp.json()['candidates'][0]['content']['parts'][0]['text']
-
-            match = re.search(r'\[.*\]', text, re.DOTALL)
+            content = resp.json()['choices'][0]['message']['content']
+            # DeepSeek may wrap JSON in markdown code block
+            match = re.search(r'\[.*\]', content, re.DOTALL)
             if not match:
                 raise ValueError('No JSON array found in response')
             scores = json.loads(match.group())

@@ -4,6 +4,94 @@
   "items": [
     {
       "rank": 1,
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 83.6
+    },
+    {
+      "rank": 2,
+      "title": "Dirty Frag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 81.3
+    },
+    {
+      "rank": 3,
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "desc": "The company that decides whether you&#039;re a bot now also requires you run its software to prove otherwise.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 78.0
+    },
+    {
+      "rank": 4,
+      "title": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story",
+      "desc": "The story of CVE-2025-55182 (React2Shell)",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 76.6
+    },
+    {
+      "rank": 5,
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "desc": "A week ago the Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for L",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 74.5
+    },
+    {
+      "rank": 6,
+      "title": "[GitHub] V4bel/dirtyfrag",
+      "url": "https://github.com/v4bel/dirtyfrag",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 73.4
+    },
+    {
+      "rank": 7,
+      "title": "Stop MITM on the first SSH connection, on any VPS or cloud provider",
+      "url": "https://www.joachimschipper.nl/stop%20mitm%20on%20the%20first%20ssh%20connection,%20on%20any%20vps%20or%20cloud%20provider.html",
+      "desc": "",
+      "tag": "云原生",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 71.5
+    },
+    {
+      "rank": 8,
+      "title": "AWS North Virginia data center outage – recovery to take hours",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "desc": "The cloud platform says it is currently working to resolve the outage, caused by overheating at a data center in Northern Virginia.",
+      "tag": "云原生",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 71.0
+    },
+    {
+      "rank": 9,
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory",
       "desc": "",
@@ -15,84 +103,7 @@
       "score": 70.0
     },
     {
-      "rank": 2,
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "desc": "The company that decides whether you&#039;re a bot now also requires you run its software to prove otherwise.",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 3,
-      "title": "OpenAI's WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem",
-      "desc": "Media over QUIC: There are ways to do voice AI without being traumatized by WebRTC.",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 4,
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "desc": "A week ago the Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for L",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 5,
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "desc": "The royal couple shared photographs of Sir David and wished him a very happy birthday.",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 6,
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 7,
-      "title": "Just Fucking Use Go",
-      "url": "https://blainsmith.com/articles/just-fucking-use-go",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 40.0
-    },
-    {
-      "rank": 8,
-      "title": "Stop MITM on the first SSH connection, on any VPS or cloud provider",
-      "url": "https://www.joachimschipper.nl/stop%20mitm%20on%20the%20first%20ssh%20connection,%20on%20any%20vps%20or%20cloud%20provider.html",
-      "desc": "",
-      "tag": "云原生",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 40.0
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "NixOS and Secrets",
       "url": "https://isabelroses.com/blog/nixos-and-secrets",
       "desc": "",
@@ -100,10 +111,32 @@
       "sources": [
         "lobsters"
       ],
-      "score": 40.0
+      "score": 64.5
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "title": "[GitHub] antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "desc": "DeepSeek 4 Flash local inference engine for Metal",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 64.0
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] lightseekorg/tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 61.9
+    },
+    {
+      "rank": 13,
       "title": "What We Lost the Last Time Code Got Cheap",
       "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
       "desc": "",
@@ -111,62 +144,29 @@
       "sources": [
         "lobsters"
       ],
-      "score": 40.0
-    },
-    {
-      "rank": 11,
-      "title": "科技爱好者周刊（第 395 期）：软件开发的第三种方式",
-      "url": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html",
-      "desc": "这里记录每周值得分享的科技内容，周五发布。...",
-      "tag": "综合",
-      "sources": [
-        "ruanyf"
-      ],
-      "score": 40.0
-    },
-    {
-      "rank": 12,
-      "title": "Cloudflare构建了面向LLM的高性能基础设施",
-      "url": "https://www.infoq.cn/article/wvrsqdh2uloyeu4f6gb0",
-      "desc": "",
-      "tag": "AI/ML",
-      "sources": [
-        "infoq_cn"
-      ],
-      "score": 35.0
-    },
-    {
-      "rank": 13,
-      "title": "技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践",
-      "url": "https://www.infoq.cn/article/yawwcrb4ebyrshyvaw2q",
-      "desc": "",
-      "tag": "AI/ML",
-      "sources": [
-        "infoq_cn"
-      ],
-      "score": 35.0
+      "score": 61.0
     },
     {
       "rank": 14,
-      "title": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
-      "url": "https://www.infoq.cn/article/oakoq3ctjybk1fd5wxjr",
-      "desc": "",
+      "title": "[GitHub] raiyanyahya/how-to-train-your-gpt",
+      "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+      "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
       "tag": "AI/ML",
       "sources": [
-        "infoq_cn"
+        "github"
       ],
-      "score": 35.0
+      "score": 58.3
     },
     {
       "rank": 15,
-      "title": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
-      "url": "https://www.infoq.cn/article/w3vmt9adbhyilgiejz9y",
-      "desc": "",
+      "title": "[GitHub] aattaran/deepclaude",
+      "url": "https://github.com/aattaran/deepclaude",
+      "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "tag": "AI/ML",
       "sources": [
-        "infoq_cn"
+        "github"
       ],
-      "score": 35.0
+      "score": 57.4
     }
   ]
 }
