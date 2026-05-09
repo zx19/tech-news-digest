@@ -4,91 +4,92 @@
   "items": [
     {
       "rank": 1,
-      "title": "[GitHub] V4bel/dirtyfrag",
-      "url": "https://github.com/v4bel/dirtyfrag",
-      "desc": "",
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "url": "https://btxx.org/posts/memory",
+      "desc": "Comments",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews",
+        "lobsters"
       ],
-      "score": 914.3
+      "score": 90.5
     },
     {
       "rank": 2,
-      "title": "[GitHub] antirez/ds4",
-      "url": "https://github.com/antirez/ds4",
-      "desc": "DeepSeek 4 Flash local inference engine for Metal",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 802.7
+      "score": 65.0
     },
     {
       "rank": 3,
-      "title": "[GitHub] aattaran/deepclaude",
-      "url": "https://github.com/aattaran/deepclaude",
-      "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "title": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem",
+      "desc": "",
       "tag": "AI/ML",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 528.2
+      "score": 65.0
     },
     {
       "rank": 4,
-      "title": "[GitHub] strukto-ai/mirage",
-      "url": "https://github.com/strukto-ai/mirage",
-      "desc": "A Unified Virtual Filesystem For AI Agents",
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "desc": "",
       "tag": "AI/ML",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 475.1
+      "score": 65.0
     },
     {
       "rank": 5,
-      "title": "[GitHub] yaojingang/yao-open-prompts",
-      "url": "https://github.com/yaojingang/yao-open-prompts",
-      "desc": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "url": "https://www.wiisfi.com",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 450.5
+      "score": 65.0
     },
     {
       "rank": 6,
-      "title": "[GitHub] XBuilderLAB/cheat-on-content",
-      "url": "https://github.com/xbuilderlab/cheat-on-content",
-      "desc": "You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who s",
-      "tag": "综合",
+      "title": "AWS North Virginia data center outage – recovery to take hours",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "desc": "",
+      "tag": "云原生",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 401.9
+      "score": 65.0
     },
     {
       "rank": 7,
-      "title": "[GitHub] MayersScott/rkn-block-checker",
-      "url": "https://github.com/mayersscott/rkn-block-checker",
-      "desc": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 278.6
+      "score": 65.0
     },
     {
       "rank": 8,
-      "title": "[GitHub] lightseekorg/tokenspeed",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 273.2
+      "score": 65.0
     }
   ]
 }
