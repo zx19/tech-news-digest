@@ -1,16 +1,16 @@
 {
   "date": "2026-05-09",
-  "count": 9,
+  "count": 15,
   "items": [
     {
       "rank": 1,
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory",
-      "desc": "Comments",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
       "score": 56.0
     },
@@ -49,9 +49,20 @@
     },
     {
       "rank": 5,
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
       "title": "Just Fucking Use Go",
       "url": "https://blainsmith.com/articles/just-fucking-use-go",
-      "desc": "Comments",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -59,10 +70,10 @@
       "score": 47.0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Stop MITM on the first SSH connection, on any VPS or cloud provider",
       "url": "https://www.joachimschipper.nl/stop%20mitm%20on%20the%20first%20ssh%20connection,%20on%20any%20vps%20or%20cloud%20provider.html",
-      "desc": "Comments",
+      "desc": "",
       "tag": "云原生",
       "sources": [
         "lobsters"
@@ -70,7 +81,40 @@
       "score": 47.0
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "NixOS and Secrets",
+      "url": "https://isabelroses.com/blog/nixos-and-secrets",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "What We Lost the Last Time Code Got Cheap",
+      "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "Dirty Frag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
       "title": "[GitHub] V4bel/dirtyfrag",
       "url": "https://github.com/v4bel/dirtyfrag",
       "desc": "",
@@ -81,7 +125,7 @@
       "score": 40.9
     },
     {
-      "rank": 8,
+      "rank": 12,
       "title": "[GitHub] antirez/ds4",
       "url": "https://github.com/antirez/ds4",
       "desc": "DeepSeek 4 Flash local inference engine for Metal",
@@ -92,7 +136,7 @@
       "score": 40.2
     },
     {
-      "rank": 9,
+      "rank": 13,
       "title": "[GitHub] aattaran/deepclaude",
       "url": "https://github.com/aattaran/deepclaude",
       "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
@@ -101,6 +145,28 @@
         "github"
       ],
       "score": 38.3
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] strukto-ai/mirage",
+      "url": "https://github.com/strukto-ai/mirage",
+      "desc": "A Unified Virtual Filesystem For AI Agents",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 38.0
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] yaojingang/yao-open-prompts",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "desc": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 37.8
     }
   ]
 }
