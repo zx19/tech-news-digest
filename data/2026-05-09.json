@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "count": 3,
+  "count": 9,
   "items": [
     {
       "rank": 1,
@@ -35,6 +35,72 @@
         "hackernews"
       ],
       "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "desc": "A week ago the Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for L",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Just Fucking Use Go",
+      "url": "https://blainsmith.com/articles/just-fucking-use-go",
+      "desc": "Comments",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 6,
+      "title": "Stop MITM on the first SSH connection, on any VPS or cloud provider",
+      "url": "https://www.joachimschipper.nl/stop%20mitm%20on%20the%20first%20ssh%20connection,%20on%20any%20vps%20or%20cloud%20provider.html",
+      "desc": "Comments",
+      "tag": "云原生",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 7,
+      "title": "[GitHub] V4bel/dirtyfrag",
+      "url": "https://github.com/v4bel/dirtyfrag",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.9
+    },
+    {
+      "rank": 8,
+      "title": "[GitHub] antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "desc": "DeepSeek 4 Flash local inference engine for Metal",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.2
+    },
+    {
+      "rank": 9,
+      "title": "[GitHub] aattaran/deepclaude",
+      "url": "https://github.com/aattaran/deepclaude",
+      "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 38.3
     }
   ]
 }
