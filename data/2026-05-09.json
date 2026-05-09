@@ -1,0 +1,94 @@
+{
+  "date": "2026-05-09",
+  "count": 8,
+  "items": [
+    {
+      "rank": 1,
+      "title": "[GitHub] V4bel/dirtyfrag",
+      "url": "https://github.com/v4bel/dirtyfrag",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 914.3
+    },
+    {
+      "rank": 2,
+      "title": "[GitHub] antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "desc": "DeepSeek 4 Flash local inference engine for Metal",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 802.7
+    },
+    {
+      "rank": 3,
+      "title": "[GitHub] aattaran/deepclaude",
+      "url": "https://github.com/aattaran/deepclaude",
+      "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 528.2
+    },
+    {
+      "rank": 4,
+      "title": "[GitHub] strukto-ai/mirage",
+      "url": "https://github.com/strukto-ai/mirage",
+      "desc": "A Unified Virtual Filesystem For AI Agents",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 475.1
+    },
+    {
+      "rank": 5,
+      "title": "[GitHub] yaojingang/yao-open-prompts",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "desc": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 450.5
+    },
+    {
+      "rank": 6,
+      "title": "[GitHub] XBuilderLAB/cheat-on-content",
+      "url": "https://github.com/xbuilderlab/cheat-on-content",
+      "desc": "You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who s",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 401.9
+    },
+    {
+      "rank": 7,
+      "title": "[GitHub] MayersScott/rkn-block-checker",
+      "url": "https://github.com/mayersscott/rkn-block-checker",
+      "desc": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 278.6
+    },
+    {
+      "rank": 8,
+      "title": "[GitHub] lightseekorg/tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 273.2
+    }
+  ]
+}
