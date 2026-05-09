@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "count": 8,
+  "count": 3,
   "items": [
     {
       "rank": 1,
@@ -9,87 +9,32 @@
       "desc": "Comments",
       "tag": "综合",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "lobsters",
+        "hackernews"
       ],
-      "score": 90.5
+      "score": 56.0
     },
     {
       "rank": 2,
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "desc": "",
+      "desc": "The company that decides whether you&#039;re a bot now also requires you run its software to prove otherwise.",
       "tag": "综合",
       "sources": [
         "hackernews"
       ],
-      "score": 65.0
+      "score": 50.0
     },
     {
       "rank": 3,
       "title": "OpenAI's WebRTC problem",
       "url": "https://moq.dev/blog/webrtc-is-the-problem",
-      "desc": "",
+      "desc": "Media over QUIC: There are ways to do voice AI without being traumatized by WebRTC.",
       "tag": "AI/ML",
       "sources": [
         "hackernews"
       ],
-      "score": 65.0
-    },
-    {
-      "rank": 4,
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "desc": "",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 65.0
-    },
-    {
-      "rank": 5,
-      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "url": "https://www.wiisfi.com",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 65.0
-    },
-    {
-      "rank": 6,
-      "title": "AWS North Virginia data center outage – recovery to take hours",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "desc": "",
-      "tag": "云原生",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 65.0
-    },
-    {
-      "rank": 7,
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 65.0
-    },
-    {
-      "rank": 8,
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 65.0
+      "score": 50.0
     }
   ]
 }
