@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-11",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/changelog-32",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles",
+      "desc": "Explore my 1996 vehicle physics prototype, recreated for the web as Motion Lab.",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 3,
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com",
+      "desc": "A new direction for computing: projecting information into the real world to augment it, with a device that combines a projector and computer vision in the shape of a large lightbulb.",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 4,
+      "title": "How big is a Git commit?",
+      "url": "https://ratfactor.com/cards/git-commit-size",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 53.0
+    },
+    {
+      "rank": 5,
+      "title": "[GitHub] openai/math",
+      "url": "https://github.com/openai/math",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "desc": "nitter.net is offline.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "IRCv3",
+      "url": "https://ircv3.net",
+      "desc": "Welcome to the IRCv3 Working Group. We",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 9,
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model",
+      "desc": "&quot;System one&quot; decision models are models that infer and respond with calibrated probabilities or every allowed answer. Consider your everyday language model, to get typed output from it (JSON",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 10,
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza",
+      "desc": "A city-building game about trying to get housing built in San Francisco. By Oliver Sin.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 11,
+      "title": "[GitHub] storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 48.3
+    },
+    {
+      "rank": 12,
+      "title": "What's Wrong with GitHub",
+      "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] alchaincyf/huashu-art-motion",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 45.1
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/artex",
+      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 44.3
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] zhongerxin/iPhone-use",
+      "url": "https://github.com/zhongerxin/iphone-use",
+      "desc": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 43.6
+    }
+  ]
+}
