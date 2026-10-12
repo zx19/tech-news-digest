@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-12",
+  "count": 14,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "desc": "I’ve done a lot of web development over the years. I started around the year 2000, just after PHP 3.0 was released and started taking over the web world. I’ve used all kinds of approaches for generati",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 3,
+      "title": "Living in the Weimar Era of Ruby",
+      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "desc": "Much has been said about the DHH keynote that he gave at RailsWorld. To me, it was the voice of a person in an existential crisis, but also a very jaded one. “Look how I don’t care anymore, and you sh",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 53.0
+    },
+    {
+      "rank": 4,
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "desc": "A Flask cookie on developers.google.com was signed with a secret it was also carrying inside itself. Pulling that secret out turned a forged session into code execution across seven Google domains.",
+      "tag": "安全",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 53.0
+    },
+    {
+      "rank": 5,
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+      "url": "https://www.phoronix.com/news/linus-torvalds-claude-code",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 7,
+      "title": "'AI' is Not a Tool",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 8,
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "(Post-Quantum) Cryptographic Right Answers",
+      "url": "https://words.filippo.io/right-answers",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕",
+      "url": "https://www.infoq.cn/article/dpieqj598ydxqc8ymjso",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    },
+    {
+      "rank": 12,
+      "title": "AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+      "url": "https://www.infoq.cn/article/qk7czmlpdcvfypaiu6tf",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    },
+    {
+      "rank": 13,
+      "title": "SvelteKit 3 进入 RC：svelte.config.js 没了，$lib 也要退休",
+      "url": "https://www.infoq.cn/article/hs5x7edo6pnhk367zzv3",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    },
+    {
+      "rank": 14,
+      "title": "Meta ZGateway 在每秒处理超过 10 亿次操作的同时，将 ZippyDB 的连接数减少了 19 倍",
+      "url": "https://www.infoq.cn/article/d5x9bkq9aoizq5mf6ln0",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    }
+  ]
+}

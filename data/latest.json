@@ -1,136 +1,92 @@
 {
-  "date": "2026-10-11",
-  "count": 15,
+  "date": "2026-10-12",
+  "count": 14,
   "items": [
     {
       "rank": 1,
-      "title": "LineageOS 24.0",
-      "url": "https://lineageos.org/changelog-32",
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
       "desc": "",
       "tag": "综合",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
       "score": 56.0
     },
     {
       "rank": 2,
-      "title": "2D Vehicles",
-      "url": "https://patkerr.co.uk/2d-vehicles",
-      "desc": "Explore my 1996 vehicle physics prototype, recreated for the web as Motion Lab.",
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "desc": "I’ve done a lot of web development over the years. I started around the year 2000, just after PHP 3.0 was released and started taking over the web world. I’ve used all kinds of approaches for generati",
       "tag": "综合",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
       "score": 56.0
     },
     {
       "rank": 3,
-      "title": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com",
-      "desc": "A new direction for computing: projecting information into the real world to augment it, with a device that combines a projector and computer vision in the shape of a large lightbulb.",
+      "title": "Living in the Weimar Era of Ruby",
+      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "desc": "Much has been said about the DHH keynote that he gave at RailsWorld. To me, it was the voice of a person in an existential crisis, but also a very jaded one. “Look how I don’t care anymore, and you sh",
       "tag": "综合",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
-      "score": 56.0
+      "score": 53.0
     },
     {
       "rank": 4,
-      "title": "How big is a Git commit?",
-      "url": "https://ratfactor.com/cards/git-commit-size",
-      "desc": "",
-      "tag": "综合",
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "desc": "A Flask cookie on developers.google.com was signed with a secret it was also carrying inside itself. Pulling that secret out turned a forged session into code execution across seven Google domains.",
+      "tag": "安全",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
       "score": 53.0
     },
     {
       "rank": 5,
-      "title": "[GitHub] openai/math",
-      "url": "https://github.com/openai/math",
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
       "desc": "",
-      "tag": "AI/ML",
+      "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
       "score": 50.0
     },
     {
       "rank": 6,
-      "title": "I paid people to try and follow my README",
-      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme",
+      "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+      "url": "https://www.phoronix.com/news/linus-torvalds-claude-code",
       "desc": "",
       "tag": "AI/ML",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 7,
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "url": "https://nitter.net",
-      "desc": "nitter.net is offline.",
-      "tag": "综合",
+      "title": "'AI' is Not a Tool",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "desc": "",
+      "tag": "AI/ML",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 8,
-      "title": "IRCv3",
-      "url": "https://ircv3.net",
-      "desc": "Welcome to the IRCv3 Working Group. We",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 9,
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model",
-      "desc": "&quot;System one&quot; decision models are models that infer and respond with calibrated probabilities or every allowed answer. Consider your everyday language model, to get typed output from it (JSON",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 10,
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza",
-      "desc": "A city-building game about trying to get housing built in San Francisco. By Oliver Sin.",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 11,
-      "title": "[GitHub] storytold/wordcraft",
-      "url": "https://github.com/storytold/wordcraft",
-      "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 48.3
-    },
-    {
-      "rank": 12,
-      "title": "What's Wrong with GitHub",
-      "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -139,37 +95,70 @@
       "score": 47.0
     },
     {
-      "rank": 13,
-      "title": "[GitHub] alchaincyf/huashu-art-motion",
-      "url": "https://github.com/alchaincyf/huashu-art-motion",
-      "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "rank": 9,
+      "title": "(Post-Quantum) Cryptographic Right Answers",
+      "url": "https://words.filippo.io/right-answers",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕",
+      "url": "https://www.infoq.cn/article/dpieqj598ydxqc8ymjso",
+      "desc": "",
       "tag": "AI/ML",
       "sources": [
-        "github"
+        "infoq_cn"
       ],
-      "score": 45.1
+      "score": 45.5
+    },
+    {
+      "rank": 12,
+      "title": "AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+      "url": "https://www.infoq.cn/article/qk7czmlpdcvfypaiu6tf",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    },
+    {
+      "rank": 13,
+      "title": "SvelteKit 3 进入 RC：svelte.config.js 没了，$lib 也要退休",
+      "url": "https://www.infoq.cn/article/hs5x7edo6pnhk367zzv3",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
     },
     {
       "rank": 14,
-      "title": "[GitHub] mhtsec/ARTEX",
-      "url": "https://github.com/mhtsec/artex",
-      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "title": "Meta ZGateway 在每秒处理超过 10 亿次操作的同时，将 ZippyDB 的连接数减少了 19 倍",
+      "url": "https://www.infoq.cn/article/d5x9bkq9aoizq5mf6ln0",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "infoq_cn"
       ],
-      "score": 44.3
-    },
-    {
-      "rank": 15,
-      "title": "[GitHub] zhongerxin/iPhone-use",
-      "url": "https://github.com/zhongerxin/iphone-use",
-      "desc": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 43.6
+      "score": 45.5
     }
   ]
 }
