@@ -1,59 +1,77 @@
 {
-  "date": "2026-10-12",
-  "count": 14,
+  "date": "2026-10-13",
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Fingerprints are the new cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "desc": "",
+      "title": "[GitHub] storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "tag": "综合",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "github"
       ],
-      "score": 56.0
+      "score": 50.0
     },
     {
       "rank": 2,
-      "title": "Type-safe HTML templating in Zig",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "desc": "I’ve done a lot of web development over the years. I started around the year 2000, just after PHP 3.0 was released and started taking over the web world. I’ve used all kinds of approaches for generati",
+      "title": "[GitHub] wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "tag": "综合",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "github"
       ],
-      "score": 56.0
+      "score": 50.0
     },
     {
       "rank": 3,
-      "title": "Living in the Weimar Era of Ruby",
-      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
-      "desc": "Much has been said about the DHH keynote that he gave at RailsWorld. To me, it was the voice of a person in an existential crisis, but also a very jaded one. “Look how I don’t care anymore, and you sh",
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview",
+      "desc": "Apple HomeView is a smart display with Siri AI, Liquid Retina display, high-fidelity audio, FaceTime, smart home controls, built-in privacy, and more.",
       "tag": "综合",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "hackernews"
       ],
-      "score": 53.0
+      "score": 50.0
     },
     {
       "rank": 4,
-      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-      "desc": "A Flask cookie on developers.google.com was signed with a secret it was also carrying inside itself. Pulling that secret out turned a forged session into code execution across seven Google domains.",
-      "tag": "安全",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "desc": "NoteGiven that this issue has been shared online and is currently getting quite a few visitors, here&#39;s some additional context. Rust&#39;s type system is intended to prevent memory unsafety. Uphol",
+      "tag": "语言/框架",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "hackernews"
       ],
-      "score": 53.0
+      "score": 50.0
     },
     {
       "rank": 5,
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh",
+      "desc": "An embedding model, turned into a speech-to-text model. An hour of audio in about 13 seconds on a base MacBook Air, on device.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "desc": "The increasing demand for GPU-accelerated machine learning inference has exposed limitations in centralized GPU infrastructures, includingâ¦",
+      "tag": "云原生",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -62,42 +80,20 @@
       "score": 50.0
     },
     {
-      "rank": 6,
-      "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
-      "url": "https://www.phoronix.com/news/linus-torvalds-claude-code",
-      "desc": "",
-      "tag": "AI/ML",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 7,
-      "title": "'AI' is Not a Tool",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "desc": "",
-      "tag": "AI/ML",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
       "rank": 8,
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-      "desc": "",
+      "title": "[GitHub] storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "desc": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
       "tag": "综合",
       "sources": [
-        "lobsters"
+        "github"
       ],
-      "score": 47.0
+      "score": 47.8
     },
     {
       "rank": 9,
-      "title": "(Post-Quantum) Cryptographic Right Answers",
-      "url": "https://words.filippo.io/right-answers",
+      "title": "Who is vfmaddrnd231pd??",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -107,8 +103,8 @@
     },
     {
       "rank": 10,
-      "title": "I'm sorry, but you still have to think",
-      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think",
+      "title": "Where is all the new, good software?",
+      "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -118,47 +114,58 @@
     },
     {
       "rank": 11,
-      "title": "从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕",
-      "url": "https://www.infoq.cn/article/dpieqj598ydxqc8ymjso",
+      "title": "Vi Hart's Big Navier-Stokes Post",
+      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
       "desc": "",
-      "tag": "AI/ML",
+      "tag": "综合",
       "sources": [
-        "infoq_cn"
+        "lobsters"
       ],
-      "score": 45.5
+      "score": 47.0
     },
     {
       "rank": 12,
-      "title": "AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
-      "url": "https://www.infoq.cn/article/qk7czmlpdcvfypaiu6tf",
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build",
       "desc": "",
-      "tag": "AI/ML",
+      "tag": "综合",
       "sources": [
-        "infoq_cn"
+        "lobsters"
       ],
-      "score": 45.5
+      "score": 47.0
     },
     {
       "rank": 13,
-      "title": "SvelteKit 3 进入 RC：svelte.config.js 没了，$lib 也要退休",
-      "url": "https://www.infoq.cn/article/hs5x7edo6pnhk367zzv3",
+      "title": "Lotus Improv on the NeXT",
+      "url": "https://stonetools.ghost.io/lotusimprov-next",
       "desc": "",
       "tag": "综合",
       "sources": [
-        "infoq_cn"
+        "lobsters"
       ],
-      "score": 45.5
+      "score": 47.0
     },
     {
       "rank": 14,
-      "title": "Meta ZGateway 在每秒处理超过 10 亿次操作的同时，将 ZippyDB 的连接数减少了 19 倍",
-      "url": "https://www.infoq.cn/article/d5x9bkq9aoizq5mf6ln0",
-      "desc": "",
+      "title": "[GitHub] storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "desc": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
       "tag": "综合",
       "sources": [
-        "infoq_cn"
+        "github"
       ],
-      "score": 45.5
+      "score": 46.9
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/artex",
+      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 46.5
     }
   ]
 }

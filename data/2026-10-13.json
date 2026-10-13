@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-13",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "[GitHub] storytold/wordcraft",
+      "url": "https://github.com/storytold/wordcraft",
+      "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 2,
+      "title": "[GitHub] wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview",
+      "desc": "Apple HomeView is a smart display with Siri AI, Liquid Retina display, high-fidelity audio, FaceTime, smart home controls, built-in privacy, and more.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "desc": "NoteGiven that this issue has been shared online and is currently getting quite a few visitors, here&#39;s some additional context. Rust&#39;s type system is intended to prevent memory unsafety. Uphol",
+      "tag": "语言/框架",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh",
+      "desc": "An embedding model, turned into a speech-to-text model. An hour of audio in about 13 seconds on a base MacBook Air, on device.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "desc": "The increasing demand for GPU-accelerated machine learning inference has exposed limitations in centralized GPU infrastructures, includingâ¦",
+      "tag": "云原生",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "[GitHub] storytold/gridcraft",
+      "url": "https://github.com/storytold/gridcraft",
+      "desc": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 47.8
+    },
+    {
+      "rank": 9,
+      "title": "Who is vfmaddrnd231pd??",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "Where is all the new, good software?",
+      "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "Vi Hart's Big Navier-Stokes Post",
+      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "Lotus Improv on the NeXT",
+      "url": "https://stonetools.ghost.io/lotusimprov-next",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] storytold/cadcraft",
+      "url": "https://github.com/storytold/cadcraft",
+      "desc": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 46.9
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/artex",
+      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 46.5
+    }
+  ]
+}
