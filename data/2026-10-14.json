@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-14",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "[GitHub] wheresryan22/anatomy",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 2,
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "url": "https://typeof.net/iosevka",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound",
+      "desc": "Interactive article explaining how sound works.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet",
+      "desc": "You don’t have to shop on Amazon to pay Amazon&#x27;s high prices.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com",
+      "desc": "The most realistic and most complete virtual guitar online. Play it with your keyboard or by touch, slow songs down and see which strings each strum hits.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "desc": "There’s ahead of its time, then there’s Traité des couleurs servant à la peinture à l’eau -- or, in its original Dutch title, Klaer Lightende Spiegel der Verfkonst, a 900-page book of paint colors mad",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "[GitHub] mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/artex",
+      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 47.1
+    },
+    {
+      "rank": 8,
+      "title": "Introducing Firefox Enterprise",
+      "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "Fancy Curl Sites",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "Apple: Switch to Safari (from Chrome)",
+      "url": "https://www.apple.com/safari/switch",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "Did Ente Locker copy my code without attribution?",
+      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] ARahim3/DigUp",
+      "url": "https://github.com/arahim3/digup",
+      "desc": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 44.7
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] t4t5/omdrop-owl",
+      "url": "https://github.com/t4t5/omdrop-owl",
+      "desc": "airdrop for non-apple devices",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.9
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "desc": "The Craft App Launcher",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.6
+    }
+  ]
+}
