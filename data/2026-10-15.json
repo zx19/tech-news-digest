@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-15",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer",
+      "desc": "Personal website and portfolio",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 2,
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros",
+      "desc": "My TP-Link EAP770 v1 corrupts downloads over Wi-Fi and TP-Link EOL&#39;d it before I unboxed it. The fix is two zeros in sysfs. TP-Link&#39;s shell won&#39;t let me write them, so I wrote a kernel exp",
+      "tag": "安全",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com",
+      "desc": "A tiny office suite where the link is the document. No accounts. Nothing is saved anywhere unless you choose to keep it on this device.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 7,
+      "title": "Introducing Firefox Enterprise",
+      "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 8,
+      "title": "Haxy on Haxy",
+      "url": "https://try.haxy.net/haxy:haxy",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "Microsoft Defender for Linux",
+      "url": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "[GitHub] storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "desc": "The Craft App Launcher",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 43.3
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 43.3
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] liseami/CCBaga",
+      "url": "https://github.com/liseami/ccbaga",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.0
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.8
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/arekejoker/qwen21-nsfw-pose-skill",
+      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.3
+    }
+  ]
+}

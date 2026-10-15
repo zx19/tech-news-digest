@@ -1,22 +1,33 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "[GitHub] wheresryan22/anatomy",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer",
+      "desc": "Personal website and portfolio",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
       "score": 50.0
     },
     {
       "rank": 2,
-      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-      "url": "https://typeof.net/iosevka",
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros",
+      "desc": "My TP-Link EAP770 v1 corrupts downloads over Wi-Fi and TP-Link EOL&#39;d it before I unboxed it. The fix is two zeros in sysfs. TP-Link&#39;s shell won&#39;t let me write them, so I wrote a kernel exp",
+      "tag": "安全",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -25,21 +36,10 @@
       "score": 50.0
     },
     {
-      "rank": 3,
-      "title": "Sound – Bartosz Ciechanowski (2022)",
-      "url": "https://ciechanow.ski/sound",
-      "desc": "Interactive article explaining how sound works.",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
       "rank": 4,
-      "title": "Amazon pushes up prices across the Internet",
-      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet",
-      "desc": "You don’t have to shop on Amazon to pay Amazon&#x27;s high prices.",
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com",
+      "desc": "A tiny office suite where the link is the document. No accounts. Nothing is saved anywhere unless you choose to keep it on this device.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -48,9 +48,9 @@
     },
     {
       "rank": 5,
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com",
-      "desc": "The most realistic and most complete virtual guitar online. Play it with your keyboard or by touch, slow songs down and see which strings each strum hits.",
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -59,28 +59,17 @@
     },
     {
       "rank": 6,
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "desc": "There’s ahead of its time, then there’s Traité des couleurs servant à la peinture à l’eau -- or, in its original Dutch title, Klaer Lightende Spiegel der Verfkonst, a 900-page book of paint colors mad",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 7,
-      "title": "[GitHub] mhtsec/ARTEX",
-      "url": "https://github.com/mhtsec/artex",
-      "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 47.1
-    },
-    {
-      "rank": 8,
       "title": "Introducing Firefox Enterprise",
       "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise",
       "desc": "",
@@ -91,9 +80,20 @@
       "score": 47.0
     },
     {
+      "rank": 8,
+      "title": "Haxy on Haxy",
+      "url": "https://try.haxy.net/haxy:haxy",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
       "rank": 9,
-      "title": "Fancy Curl Sites",
-      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -103,8 +103,8 @@
     },
     {
       "rank": 10,
-      "title": "A plea not to use uv-build",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build",
+      "title": "Microsoft Defender for Linux",
+      "url": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -114,50 +114,6 @@
     },
     {
       "rank": 11,
-      "title": "Apple: Switch to Safari (from Chrome)",
-      "url": "https://www.apple.com/safari/switch",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 12,
-      "title": "Did Ente Locker copy my code without attribution?",
-      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 13,
-      "title": "[GitHub] ARahim3/DigUp",
-      "url": "https://github.com/arahim3/digup",
-      "desc": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 44.7
-    },
-    {
-      "rank": 14,
-      "title": "[GitHub] t4t5/omdrop-owl",
-      "url": "https://github.com/t4t5/omdrop-owl",
-      "desc": "airdrop for non-apple devices",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 42.9
-    },
-    {
-      "rank": 15,
       "title": "[GitHub] storytold/craft-launcher",
       "url": "https://github.com/storytold/craft-launcher",
       "desc": "The Craft App Launcher",
@@ -165,7 +121,51 @@
       "sources": [
         "github"
       ],
-      "score": 42.6
+      "score": 43.3
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 43.3
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] liseami/CCBaga",
+      "url": "https://github.com/liseami/ccbaga",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.0
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.8
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/arekejoker/qwen21-nsfw-pose-skill",
+      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.3
     }
   ]
 }
