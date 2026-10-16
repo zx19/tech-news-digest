@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-16",
+  "count": 13,
+  "items": [
+    {
+      "rank": 1,
+      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "desc": "No more leap seconds. Sorry, about the title, but I couldn‘t resist.\nComments",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "The Folders Programming Language",
+      "url": "https://danieltemkin.com/esolangs/folders",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 55.5
+    },
+    {
+      "rank": 3,
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "url": "https://www.youtube.com/watch",
+      "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "desc": "Muse Spark Open is the most capable US open-weight model to date, and brings leading agentic capabilities to your desktop on Apple M5 Ultra Mac Studios.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Linus Torvalds on AI-assisted kernel contributions",
+      "url": "https://lore.kernel.org/lkml/cahk-=whts09_ozn+e09gu68n1wpp56muzdjrg9rnkxqua0a_4q@mail.gmail.com",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 7,
+      "title": "JPEG XL vs AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 8,
+      "title": "My C23 Conventions",
+      "url": "https://abner.page/post/c23-conventions-1",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "[GitHub] jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 45.3
+    },
+    {
+      "rank": 10,
+      "title": "[GitHub] onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 43.3
+    },
+    {
+      "rank": 11,
+      "title": "[GitHub] liseami/CCBaga",
+      "url": "https://github.com/liseami/ccbaga",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.2
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/arekejoker/qwen21-nsfw-pose-skill",
+      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.1
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] HeyPuter/everything",
+      "url": "https://github.com/heyputer/everything",
+      "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 39.7
+    }
+  ]
+}
