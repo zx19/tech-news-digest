@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-17",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "desc": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the `deepseek-flash` API model name.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 2,
+      "title": "Ultramarine 1 Flash",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "desc": "Ultramarine 1 Flash is an open model for professional work. It makes the decks, models, and memos that people in finance, law, consulting, and operations put in front of clients, at a fraction of the ",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/deepseek-v4.1-flash-1017",
+      "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/ps5lm",
+      "desc": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "url": "https://words.filippo.io/seeds-solved",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 7,
+      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+      "url": "https://maevyn.codes/decoherence",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 8,
+      "title": "The road to iroh 1.0",
+      "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "Why are we even doing all this?",
+      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "Introducing GNOME OS Preview",
+      "url": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "[GitHub] jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 45.9
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 43.8
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/arekejoker/qwen21-nsfw-pose-skill",
+      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.7
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] liseami/CCBaga",
+      "url": "https://github.com/liseami/ccbaga",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.5
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] HeyPuter/everything",
+      "url": "https://github.com/heyputer/everything",
+      "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.8
+    }
+  ]
+}
