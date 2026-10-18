@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "desc": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the `deepseek-flash` API model name.",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search",
+      "desc": "The Search API and the Fetch API give agents and RAG applications access to live web content:",
       "tag": "AI/ML",
       "sources": [
         "hackernews"
@@ -15,9 +15,9 @@
     },
     {
       "rank": 2,
-      "title": "Ultramarine 1 Flash",
-      "url": "https://www.paperinstruments.com/ultramarine",
-      "desc": "Ultramarine 1 Flash is an open model for professional work. It makes the decks, models, and memos that people in finance, law, consulting, and operations put in front of clients, at a fraction of the ",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "desc": "Did you realize the film was actually manipulating you?",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -26,10 +26,10 @@
     },
     {
       "rank": 3,
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "desc": "",
-      "tag": "综合",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app",
+      "desc": "A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.",
+      "tag": "AI/ML",
       "sources": [
         "hackernews"
       ],
@@ -37,10 +37,10 @@
     },
     {
       "rank": 4,
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/deepseek-v4.1-flash-1017",
-      "desc": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-      "tag": "AI/ML",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "desc": "A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -48,10 +48,10 @@
     },
     {
       "rank": 5,
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/ps5lm",
-      "desc": "llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8 - cobanov/PS5LM",
-      "tag": "AI/ML",
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels",
+      "desc": "Leonardo de Moura — Creator of Lean and Z3",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -59,61 +59,6 @@
     },
     {
       "rank": 6,
-      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-      "url": "https://words.filippo.io/seeds-solved",
-      "desc": "",
-      "tag": "AI/ML",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 7,
-      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-      "url": "https://maevyn.codes/decoherence",
-      "desc": "",
-      "tag": "AI/ML",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 8,
-      "title": "The road to iroh 1.0",
-      "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 9,
-      "title": "Why are we even doing all this?",
-      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 10,
-      "title": "Introducing GNOME OS Preview",
-      "url": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 11,
       "title": "[GitHub] jhaizhou-ops/d2r-mobile",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
@@ -121,21 +66,65 @@
       "sources": [
         "github"
       ],
-      "score": 45.9
+      "score": 46.3
+    },
+    {
+      "rank": 7,
+      "title": "Cloudflare 修复了容器中的跨租户数据泄露问题",
+      "url": "https://www.infoq.cn/article/ymllswkbzxy0bcvjjw70",
+      "desc": "",
+      "tag": "云原生",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    },
+    {
+      "rank": 8,
+      "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+      "url": "https://www.infoq.cn/article/qzph971cbfhkacfgg0cb",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    },
+    {
+      "rank": 9,
+      "title": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+      "url": "https://www.infoq.cn/article/4bur4dmmxsbxyzyh6fxz",
+      "desc": "",
+      "tag": "语言/框架",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    },
+    {
+      "rank": 10,
+      "title": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+      "url": "https://www.infoq.cn/article/ugnqwpot5ggakm2xlezc",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    },
+    {
+      "rank": 11,
+      "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "url": "https://www.infoq.cn/article/jmz6wux4a4cvqawhwviu",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
     },
     {
       "rank": 12,
-      "title": "[GitHub] onehumanbeing/esp32-iphone-agent",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 43.8
-    },
-    {
-      "rank": 13,
       "title": "[GitHub] Arekejoker/qwen21-nsfw-pose-skill",
       "url": "https://github.com/arekejoker/qwen21-nsfw-pose-skill",
       "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
@@ -143,21 +132,10 @@
       "sources": [
         "github"
       ],
-      "score": 42.7
+      "score": 43.1
     },
     {
-      "rank": 14,
-      "title": "[GitHub] liseami/CCBaga",
-      "url": "https://github.com/liseami/ccbaga",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 42.5
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "title": "[GitHub] HeyPuter/everything",
       "url": "https://github.com/heyputer/everything",
       "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
@@ -165,7 +143,29 @@
       "sources": [
         "github"
       ],
-      "score": 40.8
+      "score": 41.4
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] deeplethe/solid-glass",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.0
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] ahwootech/BRUTAL",
+      "url": "https://github.com/ahwootech/brutal",
+      "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.5
     }
   ]
 }
