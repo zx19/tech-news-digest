@@ -1,64 +1,123 @@
 {
-  "date": "2026-10-19",
-  "count": 10,
+  "date": "2026-10-20",
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Linux 7.3 Released",
-      "url": "https://lwn.net/articles/1101143",
-      "desc": "Linus Torvalds has released the 7.3 kernel, as expected. It",
-      "tag": "综合",
+      "title": "[GitHub] deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/deepinfer",
+      "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer",
+      "tag": "AI/ML",
       "sources": [
+        "github",
         "hackernews"
       ],
-      "score": 50.0
+      "score": 56.0
     },
     {
       "rank": 2,
-      "title": "Timestral: Mistral release time-series foundation models",
-      "url": "https://mistral.ai/news/timestral",
-      "desc": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
-      "tag": "AI/ML",
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "desc": "",
+      "tag": "综合",
       "sources": [
+        "lobsters",
         "hackernews"
       ],
-      "score": 50.0
+      "score": 56.0
     },
     {
       "rank": 3,
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "desc": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning off",
-      "tag": "AI/ML",
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info",
+      "desc": "",
+      "tag": "综合",
       "sources": [
+        "lobsters",
         "hackernews"
       ],
-      "score": 50.0
+      "score": 56.0
     },
     {
       "rank": 4,
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "title": "I built a drone with only one motor [video]",
       "url": "https://www.youtube.com/watch",
       "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "tag": "语言/框架",
+      "tag": "综合",
       "sources": [
+        "lobsters",
         "hackernews"
       ],
-      "score": 50.0
+      "score": 56.0
     },
     {
       "rank": 5,
-      "title": "William Gibson and the trademarking of cyberspace",
-      "url": "https://colo.to/cyberspace.html",
-      "desc": "Autodesk did trademark cyberspace, and William Gibson did get mad. But the story that Gibson retaliated by trademarking Eric Gullichsen was a prank by Timothy Leary.",
+      "title": "[GitHub] Gathin23/cleanyourtv",
+      "url": "https://github.com/gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "github"
       ],
       "score": 50.0
     },
     {
       "rank": 6,
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "url": "https://github.com/tywr/nordwand-mono",
+      "desc": "A compact monospace neo-grotesque font designed for developers (and adventurers). - tywr/Nordwand-Mono",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/gmscore/wiki",
+      "desc": "Free implementation of Play Services. Contribute to microg/GmsCore development by creating an account on GitHub.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "desc": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 9,
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 10,
+      "title": "Google cloud outage takes down banks",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more",
+      "desc": "",
+      "tag": "云原生",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 11,
       "title": "Updates to site guidelines and AI/LLM tags",
       "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
       "desc": "Hey folks,\nI've been having to perform an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interest",
@@ -69,20 +128,9 @@
       "score": 47.0
     },
     {
-      "rank": 7,
-      "title": "What are you doing this week?",
-      "url": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
-      "desc": "What are you doing this week? Feel free to share!\nKeep in mind it’s OK to do nothing at all, too.",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 8,
-      "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
-      "url": "https://blog.torproject.org/tor-vpn-beta",
+      "rank": 12,
+      "title": "Setting up SSH keys on macOS with Touch ID",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -91,26 +139,37 @@
       "score": 47.0
     },
     {
-      "rank": 9,
-      "title": "A5 v1.0",
-      "url": "https://a5geo.org/blog/2026/10/14/a5-v1",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 10,
-      "title": "Men in tech #YesAllMen",
-      "url": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
-      "desc": "",
+      "rank": 13,
+      "title": "[GitHub] feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai",
+      "desc": "Git designed for AI agents.",
       "tag": "AI/ML",
       "sources": [
-        "lobsters"
+        "github"
       ],
-      "score": 47.0
+      "score": 42.7
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/macnativegames",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.3
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] ahwootech/BRUTAL",
+      "url": "https://github.com/ahwootech/brutal",
+      "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.1
     }
   ]
 }
