@@ -1,57 +1,32 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "[GitHub] deepseek-ai/DeepInfer",
-      "url": "https://github.com/deepseek-ai/deepinfer",
-      "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer",
-      "tag": "AI/ML",
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027",
+      "desc": "Every year, browser vendors collaborate via the Interop project to synchronize their efforts on new HTML/CSS/JS features. This year, there’s a ton of super exciting features being considered! In this ",
+      "tag": "综合",
       "sources": [
-        "github",
+        "lobsters",
         "hackernews"
       ],
       "score": 56.0
     },
     {
       "rank": 2,
-      "title": "OpenBSD 8.0",
-      "url": "https://www.openbsd.org/80.html",
-      "desc": "",
-      "tag": "综合",
+      "title": "[GitHub] deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/deepinfer",
+      "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "tag": "AI/ML",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "github"
       ],
-      "score": 56.0
+      "score": 50.0
     },
     {
       "rank": 3,
-      "title": "Wine ported to OpenBSD",
-      "url": "https://marc.info",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters",
-        "hackernews"
-      ],
-      "score": 56.0
-    },
-    {
-      "rank": 4,
-      "title": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch",
-      "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "tag": "综合",
-      "sources": [
-        "lobsters",
-        "hackernews"
-      ],
-      "score": 56.0
-    },
-    {
-      "rank": 5,
       "title": "[GitHub] Gathin23/cleanyourtv",
       "url": "https://github.com/gathin23/cleanyourtv",
       "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
@@ -62,11 +37,33 @@
       "score": 50.0
     },
     {
+      "rank": 4,
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds",
+      "desc": "One of eMudhra&#x27;s certificate authority private keys is the number 4. Not a number that starts with 4, or the number 4 followed by a few hundred random digits, just, 4... Another one is 56, and an",
+      "tag": "语言/框架",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "desc": "",
+      "tag": "安全",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
       "rank": 6,
-      "title": "Nordwand Mono – A monospace font for coders and adventurers",
-      "url": "https://github.com/tywr/nordwand-mono",
-      "desc": "A compact monospace neo-grotesque font designed for developers (and adventurers). - tywr/Nordwand-Mono",
-      "tag": "综合",
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "url": "https://www.ncsc.nl/actueel",
+      "desc": "",
+      "tag": "安全",
       "sources": [
         "hackernews"
       ],
@@ -74,9 +71,9 @@
     },
     {
       "rank": 7,
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "url": "https://github.com/microg/gmscore/wiki",
-      "desc": "Free implementation of Play Services. Contribute to microg/GmsCore development by creating an account on GitHub.",
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com",
+      "desc": "Build the city of your dreams. Subject to approval. A free city builder about zoning, hearings, lawsuits and reelection.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -85,10 +82,10 @@
     },
     {
       "rank": 8,
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "desc": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes.",
-      "tag": "AI/ML",
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations",
+      "desc": "Meta is suspending the sharing feature while it investigates its privacy.",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -96,32 +93,32 @@
     },
     {
       "rank": 9,
-      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19",
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://www.php.net/archive/2026.php",
       "desc": "",
-      "tag": "AI/ML",
+      "tag": "安全",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 10,
-      "title": "Google cloud outage takes down banks",
-      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more",
+      "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates",
       "desc": "",
-      "tag": "云原生",
+      "tag": "综合",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 11,
-      "title": "Updates to site guidelines and AI/LLM tags",
-      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-      "desc": "Hey folks,\nI've been having to perform an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interest",
-      "tag": "AI/ML",
+      "title": "Unikernels in OCaml",
+      "url": "https://uniker.nl",
+      "desc": "",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -140,17 +137,6 @@
     },
     {
       "rank": 13,
-      "title": "[GitHub] feder-cr/git-ai",
-      "url": "https://github.com/feder-cr/git-ai",
-      "desc": "Git designed for AI agents.",
-      "tag": "AI/ML",
-      "sources": [
-        "github"
-      ],
-      "score": 42.7
-    },
-    {
-      "rank": 14,
       "title": "[GitHub] ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/macnativegames",
       "desc": "",
@@ -158,13 +144,24 @@
       "sources": [
         "github"
       ],
-      "score": 42.3
+      "score": 45.4
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.9
     },
     {
       "rank": 15,
-      "title": "[GitHub] ahwootech/BRUTAL",
-      "url": "https://github.com/ahwootech/brutal",
-      "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+      "title": "[GitHub] Leonxlnx/earshot",
+      "url": "https://github.com/leonxlnx/earshot",
+      "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "tag": "综合",
       "sources": [
         "github"
