@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-23",
+  "count": 13,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "desc": "",
+      "tag": "云原生",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "[GitHub] Gathin23/cleanyourtv",
+      "url": "https://github.com/gathin23/cleanyourtv",
+      "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki",
+      "desc": "Wikipedia, but only for things a half hour walk from you.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~ewd/transcriptions/ewd06xx/ewd667.html",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "desc": "This excerpt is from a book containing outrageous and categorically false allegations. We denied every claim on the record, yet the author provided not a single shred of verifiable evidence to substan",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "How does Fable 5.1 hide messages in images?",
+      "url": "https://www.lesswrong.com/posts/wheqps5pk8lrrctab/how-does-fable-5-1-hide-messages-in-images",
+      "desc": "TL;DR Frontier LLMs are now capable of generating artistic images using SVG. We ask – if these LLMs had to hide a message in an image – how would the…",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "[GitHub] ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/macnativegames",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 49.3
+    },
+    {
+      "rank": 8,
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "url": "https://alexsci.com/blog/uuidv7-is-weird",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "Please don't mess with links",
+      "url": "https://maurycyz.com/misc/real_links",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "a hacky fucked up way to portably access errno from outside of c",
+      "url": "https://sebsite.pw/w/20260925-errno.html",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "[GitHub] simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 46.1
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 45.9
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.9
+    }
+  ]
+}
