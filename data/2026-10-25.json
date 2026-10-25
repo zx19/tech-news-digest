@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-25",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 3,
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "desc": "Sleeping Giants and CTRL-Z sent evidence to Brazil’s Superior Electoral Court today showing Meta AI continues to spontaneously link Lula to negative content",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "desc": "Learn how Cerebras maps trillion-parameter frontier models across WSE-3T wafers to deliver scalable inference at 1,000–2,000+ tokens per second.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "[GitHub] pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 49.3
+    },
+    {
+      "rank": 7,
+      "title": "[GitHub] simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "desc": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 48.3
+    },
+    {
+      "rank": 8,
+      "title": "I want my Wednesday back",
+      "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
+      "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5pwl",
+      "desc": "tl;dr: it looks like C++ 26 got turned down by the national bodies (afaik unprecedented)\nComments",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "Bringing uv and ty together",
+      "url": "https://astral.sh/blog/uv-ty-integration",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "MacOS Extensions pack for the Apple Network Server v1.0",
+      "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "Wild version 0.11.0 released",
+      "url": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] JoasASantos/REA-Prompts",
+      "url": "https://github.com/joasasantos/rea-prompts",
+      "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.9
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] EthanArbuckle/fairplay-decrypt",
+      "url": "https://github.com/ethanarbuckle/fairplay-decrypt",
+      "desc": "Offline FairPlay App Store IPA decryption with independent key derivation",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 41.1
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/justaresearcher/gpu-unlock-ada",
+      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.8
+    }
+  ]
+}
