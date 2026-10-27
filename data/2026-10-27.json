@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-27",
+  "count": 13,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/subscriberlink/1102102/0c00e4d550f25f8c",
+      "desc": "",
+      "tag": "语言/框架",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11",
+      "desc": "A blog post about finding the oldest Windows application with a GUI that still runs on Windows 11",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 3,
+      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites",
+      "desc": "On 15 and 16 October 2026, a crawler that said it belonged to Roblox walked through almost every project on Open3DLab, SFMLab and SmutBase, and proceeded to download complete copies of 1,027 files fro",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work",
+      "desc": "Agents made implementation cheap, so I started doing far more of it in parallel. My GitHub history since 2019 shows what that did: as VP of Technology I am back at my full-stack engineer pace, with bu",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "desc": "AI-generated text is harder to spot, but that hasn’t deterred them",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Software may be getting worse, but it used to be horrible",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible",
+      "desc": "Software is degrading all around us, for obvious reasons. I&#39;ve written about this before. All else equal, if you increase your code production by 10x but you don&#39;t reduce your error rate by a ",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "[GitHub] JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/justaresearcher/gpu-unlock-ada",
+      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 47.4
+    },
+    {
+      "rank": 9,
+      "title": "Shitty Screenshare",
+      "url": "http://shittyscreenshare.com",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://files.mathhelm.org/files/733/the-exponential-time-hypothesis-is-false-october-25-2026.pdf",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "url": "https://github.com/eness/php2shell-cve-2026-109618-cve-2026-109619-poc",
+      "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
+      "tag": "安全",
+      "sources": [
+        "github"
+      ],
+      "score": 38.1
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] assetnote/php2shell-scanner",
+      "url": "https://github.com/assetnote/php2shell-scanner",
+      "desc": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 37.8
+    }
+  ]
+}
