@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-28",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "desc": "Eleven days after Apple was notified of the eMudhra CA compromise, the git, curl and python3 that Apple ships with macOS still trust the compromised certificates.",
+      "tag": "语言/框架",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "desc": "Release notes for Ghostty 1.4.0, released on October 27, 2026.",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 3,
+      "title": "Start Doing Graph Theory",
+      "url": "https://vertex.degree",
+      "desc": "An introductory textbook about using graph theory to solve puzzles, prove theorems, and everything in between.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history",
+      "desc": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Git for the US Code",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "desc": "Lawyers should be able to read a statute as it stood on any date and see which law wrote each phrase. A history of nine titles of the US Code, built by replaying every amendment, as the example.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "[GitHub] JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/justaresearcher/gpu-unlock-ada",
+      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 48.1
+    },
+    {
+      "rank": 9,
+      "title": "[GitHub] rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 47.5
+    },
+    {
+      "rank": 10,
+      "title": "This is not sustainable",
+      "url": "https://www.netmeister.org/blog/defense-ddos.html",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "A fast and secure tar parser for the Rust ecosystem",
+      "url": "https://astral.sh/blog/tar-codec",
+      "desc": "",
+      "tag": "语言/框架",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 45.2
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 44.0
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.5
+    }
+  ]
+}
