@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "desc": "Eleven days after Apple was notified of the eMudhra CA compromise, the git, curl and python3 that Apple ships with macOS still trust the compromised certificates.",
-      "tag": "语言/框架",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "desc": "I compiled a RISC-V CPU into Qwen 3.5 4B&#x27;s weights, using its Gated DeltaNet layers as RAM. It runs C and MicroPython inside the forward passes, and Qwen uses it for exact arithmetic.",
+      "tag": "综合",
       "sources": [
         "lobsters",
         "hackernews"
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "desc": "Release notes for Ghostty 1.4.0, released on October 27, 2026.",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "lobsters",
@@ -28,20 +28,21 @@
     },
     {
       "rank": 3,
-      "title": "Start Doing Graph Theory",
-      "url": "https://vertex.degree",
-      "desc": "An introductory textbook about using graph theory to solve puzzles, prove theorems, and everything in between.",
+      "title": "NetBSD adds a new beginner-friendly text editor called atto",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "desc": "",
       "tag": "综合",
       "sources": [
+        "lobsters",
         "hackernews"
       ],
-      "score": 50.0
+      "score": 53.0
     },
     {
       "rank": 4,
-      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history",
-      "desc": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.",
+      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "url": "https://mistral.ai/news/mistral-large-4-oss",
+      "desc": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -50,10 +51,10 @@
     },
     {
       "rank": 5,
-      "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "desc": "",
-      "tag": "综合",
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "desc": "Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index",
+      "tag": "AI/ML",
       "sources": [
         "hackernews"
       ],
@@ -61,9 +62,9 @@
     },
     {
       "rank": 6,
-      "title": "Git for the US Code",
-      "url": "https://lexifina.com/blog/git-for-the-us-code",
-      "desc": "Lawyers should be able to read a statute as it stood on any date and see which law wrote each phrase. A history of nine titles of the US Code, built by replaying every amendment, as the example.",
+      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+      "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+      "desc": "Vox is a general interest news site for the 21st century. Its mission: to help everyone understand our complicated world, so that we can all help shape it. In text, video and audio, our reporters expl",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -72,9 +73,9 @@
     },
     {
       "rank": 7,
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
-      "desc": "",
+      "title": "Zero click, silent, remote Android DoS",
+      "url": "https://smsofdeath.com",
+      "desc": "A single malformed WAP Push SMS crashes com.android.phone on Android. Zero-click, remote, drops emergency calls.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -83,14 +84,14 @@
     },
     {
       "rank": 8,
-      "title": "[GitHub] JustAResearcher/gpu-unlock-ada",
-      "url": "https://github.com/justaresearcher/gpu-unlock-ada",
-      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "title": "Google determines the names for bodies of water in Google Earth (2008)",
+      "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 48.1
+      "score": 50.0
     },
     {
       "rank": 9,
@@ -101,23 +102,34 @@
       "sources": [
         "github"
       ],
-      "score": 47.5
+      "score": 49.0
     },
     {
       "rank": 10,
-      "title": "This is not sustainable",
-      "url": "https://www.netmeister.org/blog/defense-ddos.html",
-      "desc": "",
-      "tag": "AI/ML",
+      "title": "[GitHub] JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/justaresearcher/gpu-unlock-ada",
+      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "tag": "综合",
       "sources": [
-        "lobsters"
+        "github"
       ],
-      "score": 47.0
+      "score": 48.5
     },
     {
       "rank": 11,
-      "title": "AlpineBSD",
-      "url": "https://wiki.alpinebsd.org",
+      "title": "[GitHub] unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 48.1
+    },
+    {
+      "rank": 12,
+      "title": "What the fox say?",
+      "url": "https://entropicthoughts.com/what-the-fox-say",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -126,9 +138,9 @@
       "score": 47.0
     },
     {
-      "rank": 12,
-      "title": "A fast and secure tar parser for the Rust ecosystem",
-      "url": "https://astral.sh/blog/tar-codec",
+      "rank": 13,
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
       "desc": "",
       "tag": "语言/框架",
       "sources": [
@@ -137,18 +149,18 @@
       "score": 47.0
     },
     {
-      "rank": 13,
-      "title": "[GitHub] unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "desc": "",
-      "tag": "综合",
+      "rank": 14,
+      "title": "[GitHub] interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/zero-breach-toolkit",
+      "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "tag": "AI/ML",
       "sources": [
         "github"
       ],
-      "score": 45.2
+      "score": 44.8
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "[GitHub] designfuchen/word-atlas",
       "url": "https://github.com/designfuchen/word-atlas",
       "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
@@ -156,18 +168,7 @@
       "sources": [
         "github"
       ],
-      "score": 44.0
-    },
-    {
-      "rank": 15,
-      "title": "[GitHub] t3dotgg/tstack",
-      "url": "https://github.com/t3dotgg/tstack",
-      "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 41.5
+      "score": 44.6
     }
   ]
 }

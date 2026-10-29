@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-29",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "desc": "I compiled a RISC-V CPU into Qwen 3.5 4B&#x27;s weights, using its Gated DeltaNet layers as RAM. It runs C and MicroPython inside the forward passes, and Qwen uses it for exact arithmetic.",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 3,
+      "title": "NetBSD adds a new beginner-friendly text editor called atto",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 53.0
+    },
+    {
+      "rank": 4,
+      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "url": "https://mistral.ai/news/mistral-large-4-oss",
+      "desc": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "desc": "Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+      "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+      "desc": "Vox is a general interest news site for the 21st century. Its mission: to help everyone understand our complicated world, so that we can all help shape it. In text, video and audio, our reporters expl",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Zero click, silent, remote Android DoS",
+      "url": "https://smsofdeath.com",
+      "desc": "A single malformed WAP Push SMS crashes com.android.phone on Android. Zero-click, remote, drops emergency calls.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "Google determines the names for bodies of water in Google Earth (2008)",
+      "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 9,
+      "title": "[GitHub] rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 49.0
+    },
+    {
+      "rank": 10,
+      "title": "[GitHub] JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/justaresearcher/gpu-unlock-ada",
+      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 48.5
+    },
+    {
+      "rank": 11,
+      "title": "[GitHub] unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 48.1
+    },
+    {
+      "rank": 12,
+      "title": "What the fox say?",
+      "url": "https://entropicthoughts.com/what-the-fox-say",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "desc": "",
+      "tag": "语言/框架",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/zero-breach-toolkit",
+      "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 44.8
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 44.6
+    }
+  ]
+}
