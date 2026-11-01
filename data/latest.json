@@ -1,58 +1,45 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Digital Minimalism",
-      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "desc": "",
-      "tag": "综合",
+      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "url": "https://www.youtube.com/watch",
+      "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "tag": "AI/ML",
       "sources": [
         "lobsters",
         "hackernews"
       ],
-      "score": 56.0
+      "score": 53.0
     },
     {
       "rank": 2,
-      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "url": "https://zebra.rodeo/en/blog/marelleo",
-      "desc": "A box that plays a story when a child puts a figurine on top. Built for my three kids by someone who knew nothing about electronics: the breadboard, the potentiometer that burned, the five enclosures ",
-      "tag": "综合",
-      "sources": [
-        "lobsters",
-        "hackernews"
-      ],
-      "score": 55.4
-    },
-    {
-      "rank": 3,
-      "title": "Switch Lowering in GCC",
-      "url": "https://xoranth.net/gcc-switch",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters",
-        "hackernews"
-      ],
-      "score": 54.3
-    },
-    {
-      "rank": 4,
-      "title": "[GitHub] unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "desc": "",
-      "tag": "综合",
+      "title": "[GitHub] deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "desc": "Towards a More Autonomous Agent System",
+      "tag": "AI/ML",
       "sources": [
         "github"
       ],
       "score": 50.0
     },
     {
-      "rank": 5,
-      "title": "Serbia just elected the world's brainiest parliament",
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "rank": 3,
+      "title": "[GitHub] anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Norway makes shithouses great again",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets",
       "desc": "",
       "tag": "AI/ML",
       "sources": [
@@ -61,10 +48,21 @@
       "score": 50.0
     },
     {
+      "rank": 5,
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube",
+      "desc": "Instead of YouTube, watch HackerTube!",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
       "rank": 6,
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes",
-      "desc": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644",
+      "desc": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an ancient grain that proved to be an answer to some modern problems",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -73,9 +71,9 @@
     },
     {
       "rank": 7,
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii",
-      "desc": "",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+      "desc": "Two lawyers hid a white-on-white instruction inside a court filing telling the AI to go easy on their case. The court&#039;s AI caught it. The fine was $16,000.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -84,10 +82,10 @@
     },
     {
       "rank": 8,
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "desc": "Cloudflare turnstile and challenge page solver in Rust (full reverse, request based) - chris124567/cfsolve",
-      "tag": "云原生",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "desc": "A lightweight coding and automation agent in one CLI binary. Run locally or over SSH, optimize token use, and automate CI and cron with durable workflows. - guregodevo/memdoor",
+      "tag": "AI/ML",
       "sources": [
         "hackernews"
       ],
@@ -95,32 +93,32 @@
     },
     {
       "rank": 9,
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "desc": "",
+      "title": "[GitHub] heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 10,
-      "title": "[GitHub] anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "tag": "AI/ML",
       "sources": [
         "github"
       ],
-      "score": 48.5
+      "score": 48.0
+    },
+    {
+      "rank": 10,
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
     },
     {
       "rank": 11,
-      "title": "Backdoors in Claude Code for VS, Cursor official extensions",
-      "url": "https://cyberplace.social/@gossithedog/117528831681803563",
+      "title": "Introducing Kwi, a new KDE terminal emulator",
+      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi",
       "desc": "",
-      "tag": "AI/ML",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -128,8 +126,8 @@
     },
     {
       "rank": 12,
-      "title": "How hard is it to check for whitespace?",
-      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -139,36 +137,36 @@
     },
     {
       "rank": 13,
-      "title": "[GitHub] interplains/Zero-Breach-Toolkit",
-      "url": "https://github.com/interplains/zero-breach-toolkit",
-      "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-      "tag": "AI/ML",
+      "title": "The Kluever Maneuver",
+      "url": "https://jordi.inversethought.com/blog/the-kluever-maneuver",
+      "desc": "",
+      "tag": "综合",
       "sources": [
-        "github"
+        "lobsters"
       ],
-      "score": 46.9
+      "score": 47.0
     },
     {
       "rank": 14,
-      "title": "[GitHub] designfuchen/word-atlas",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "title": "[GitHub] wangzan101/Mika",
+      "url": "https://github.com/wangzan101/mika",
+      "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 45.5
+      "score": 45.4
     },
     {
       "rank": 15,
-      "title": "[GitHub] ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-go",
-      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "title": "[GitHub] valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
       "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 45.0
+      "score": 43.8
     }
   ]
 }
