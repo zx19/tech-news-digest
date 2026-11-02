@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-      "url": "https://www.youtube.com/watch",
-      "desc": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "tag": "AI/ML",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "desc": "",
+      "tag": "数据库",
       "sources": [
         "lobsters",
         "hackernews"
       ],
-      "score": 53.0
+      "score": 56.0
     },
     {
       "rank": 2,
@@ -27,6 +27,17 @@
     },
     {
       "rank": 3,
+      "title": "[GitHub] heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
       "title": "[GitHub] anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
@@ -37,32 +48,21 @@
       "score": 50.0
     },
     {
-      "rank": 4,
-      "title": "Norway makes shithouses great again",
-      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets",
-      "desc": "",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
       "rank": 5,
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube",
-      "desc": "Instead of YouTube, watch HackerTube!",
+      "title": "[GitHub] wangzan101/Mika",
+      "url": "https://github.com/wangzan101/mika",
+      "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "github"
       ],
       "score": 50.0
     },
     {
       "rank": 6,
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644",
-      "desc": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an ancient grain that proved to be an answer to some modern problems",
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": "https://news.ycombinator.com/item",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -71,9 +71,9 @@
     },
     {
       "rank": 7,
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
-      "desc": "Two lawyers hid a white-on-white instruction inside a court filing telling the AI to go easy on their case. The court&#039;s AI caught it. The fine was $16,000.",
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up",
+      "desc": "This story starts with a little tragedy. See, Iâve got these old webpages I love to go back and look on every now and then. Thereâs websites that h...",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -82,10 +82,10 @@
     },
     {
       "rank": 8,
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "desc": "A lightweight coding and automation agent in one CLI binary. Run locally or over SSH, optimize token use, and automate CI and cron with durable workflows. - guregodevo/memdoor",
-      "tag": "AI/ML",
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "desc": "",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -93,30 +93,30 @@
     },
     {
       "rank": 9,
-      "title": "[GitHub] heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh",
+      "desc": "The Linux syscall table for 27 architectures: every system call number, argument and register, with a table per architecture, from Linux 3.3 to 7.3.",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 48.0
+      "score": 50.0
     },
     {
       "rank": 10,
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "desc": "",
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "desc": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French stores",
       "tag": "综合",
       "sources": [
-        "lobsters"
+        "hackernews"
       ],
-      "score": 47.0
+      "score": 50.0
     },
     {
       "rank": 11,
-      "title": "Introducing Kwi, a new KDE terminal emulator",
-      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi",
+      "title": "An outsider's perspective on Scion and Mononoke",
+      "url": "https://typesanitizer.com/blog/scion.html",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -126,10 +126,10 @@
     },
     {
       "rank": 12,
-      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack",
       "desc": "",
-      "tag": "综合",
+      "tag": "AI/ML",
       "sources": [
         "lobsters"
       ],
@@ -137,9 +137,9 @@
     },
     {
       "rank": 13,
-      "title": "The Kluever Maneuver",
-      "url": "https://jordi.inversethought.com/blog/the-kluever-maneuver",
-      "desc": "",
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week",
+      "desc": "What are you doing this week? Feel free to share!\nKeep in mind it’s OK to do nothing at all, too.",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -148,25 +148,25 @@
     },
     {
       "rank": 14,
-      "title": "[GitHub] wangzan101/Mika",
-      "url": "https://github.com/wangzan101/mika",
-      "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "title": "My reflex of assuming our servers need ever-growing amounts of RAM",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/serverramgrowthreflex",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "lobsters"
       ],
-      "score": 45.4
+      "score": 47.0
     },
     {
       "rank": 15,
       "title": "[GitHub] valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 43.8
+      "score": 46.5
     }
   ]
 }
