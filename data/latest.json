@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "desc": "",
-      "tag": "数据库",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "desc": "A fun experiment where I back-port all the improvements we",
+      "tag": "综合",
       "sources": [
         "lobsters",
         "hackernews"
@@ -38,10 +38,10 @@
     },
     {
       "rank": 4,
-      "title": "[GitHub] anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "tag": "AI/ML",
+      "title": "[GitHub] storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "tag": "综合",
       "sources": [
         "github"
       ],
@@ -60,9 +60,9 @@
     },
     {
       "rank": 6,
-      "title": "Ask HN: Who is hiring? (November 2026)",
-      "url": "https://news.ycombinator.com/item",
-      "desc": "",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "desc": "The experiments that read raw weights and the ones that fix Qwen use completely different techniques.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -71,9 +71,9 @@
     },
     {
       "rank": 7,
-      "title": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up",
-      "desc": "This story starts with a little tragedy. See, Iâve got these old webpages I love to go back and look on every now and then. Thereâs websites that h...",
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/nvidia/auto-ontology",
+      "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for L...",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -82,41 +82,30 @@
     },
     {
       "rank": 8,
-      "title": "WTF Ubuntu?",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "desc": "",
+      "title": "[GitHub] valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "github"
       ],
-      "score": 50.0
+      "score": 48.1
     },
     {
       "rank": 9,
-      "title": "Show HN: I've updated my Linux System Call website and API",
-      "url": "https://syscall.sh",
-      "desc": "The Linux syscall table for 27 architectures: every system call number, argument and register, with a table per architecture, from Linux 3.3 to 7.3.",
+      "title": "Life with Down Syndrome",
+      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome",
+      "desc": "He’s thirty-five years old. Loves movies. Works two jobs. Wants to meet the right person. But because he has Down syndrome, someone told him he’s different.",
       "tag": "综合",
       "sources": [
         "hackernews"
       ],
-      "score": 50.0
+      "score": 47.8
     },
     {
       "rank": 10,
-      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "desc": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French stores",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 11,
-      "title": "An outsider's perspective on Scion and Mononoke",
-      "url": "https://typesanitizer.com/blog/scion.html",
+      "title": "A Decade of Kill Bugs",
+      "url": "https://alangrow.com/blog/a-decade-of-kill-bugs",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -125,7 +114,7 @@
       "score": 47.0
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Jailbreaking my car's navigation system just so I can change the time",
       "url": "https://blog.nns.ee/2026/11/02/renault-hack",
       "desc": "",
@@ -136,10 +125,10 @@
       "score": 47.0
     },
     {
-      "rank": 13,
-      "title": "What are you doing this week?",
-      "url": "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week",
-      "desc": "What are you doing this week? Feel free to share!\nKeep in mind it’s OK to do nothing at all, too.",
+      "rank": 12,
+      "title": "Why did you choose the nix you nix?",
+      "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
+      "desc": "I don't which nix is good and at this point I'm afraid I need to ask.\n\n(Cpp)Nix\n\nDeterminate Nix\nLix\n\nOr, you know, Guix?\n(I suspect that Snix, Tvix, and others aren't intended for general use… but I ",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -147,9 +136,9 @@
       "score": 47.0
     },
     {
-      "rank": 14,
-      "title": "My reflex of assuming our servers need ever-growing amounts of RAM",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/serverramgrowthreflex",
+      "rank": 13,
+      "title": "This background sound leaks your exact location",
+      "url": "https://youtu.be/uytyrhyloki",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -158,15 +147,26 @@
       "score": 47.0
     },
     {
-      "rank": 15,
-      "title": "[GitHub] valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+      "rank": 14,
+      "title": "Katamari Damacy but it's The Met collection",
+      "url": "https://katamari.vaguespac.es",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 46.5
+      "score": 46.9
+    },
+    {
+      "rank": 15,
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+      "desc": "Low costs and offline security mean magnetic tape still has a job.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 46.8
     }
   ]
 }
