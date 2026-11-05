@@ -1,9 +1,33 @@
 {
-  "date": "2026-11-04",
-  "count": 15,
+  "date": "2026-11-05",
+  "count": 12,
   "items": [
     {
       "rank": 1,
+      "title": "Sshole",
+      "url": "https://sshhole.com",
+      "desc": "openssh on musl linux has been letting people into password-less accounts since 2016.",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo",
+      "desc": "Plus new CSS functions and WEbGL2 improvements.",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 53.0
+    },
+    {
+      "rank": 3,
       "title": "[GitHub] deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "desc": "Towards a More Autonomous Agent System",
@@ -14,7 +38,7 @@
       "score": 50.0
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "[GitHub] storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
       "desc": "Craft Anything: understand how any software works, and craft your own.",
@@ -25,53 +49,20 @@
       "score": 50.0
     },
     {
-      "rank": 3,
-      "title": "[GitHub] heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 4,
-      "title": "[GitHub] wangzan101/Mika",
-      "url": "https://github.com/wangzan101/mika",
-      "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 50.0
-    },
-    {
       "rank": 5,
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "desc": "AI is forcing us to pay off 40 years of technical debt",
-      "tag": "AI/ML",
+      "title": "[GitHub] patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "tag": "综合",
       "sources": [
-        "hackernews"
+        "github"
       ],
       "score": 50.0
     },
     {
       "rank": 6,
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "desc": "A hands-on look at dual-booting Linux on the Nvidia RTX Spark laptop, the GPU clock throttling bug found, and why WSL still wins.",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 7,
-      "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "url": "https://www.openssh.org/releasenotes.html",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -80,10 +71,21 @@
       "score": 50.0
     },
     {
+      "rank": 7,
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base",
+      "desc": "ERNIE 5.5 Flash Base: a 280B-A14B hybrid-attention MoE pretrained on 33.5T tokens. An open, efficient pretraining base.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
       "rank": 8,
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "desc": "Science needs more than answers",
+      "title": "Lemmings CSS Animation",
+      "url": "https://markblah.github.io/lemmings",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -92,28 +94,17 @@
     },
     {
       "rank": 9,
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-      "desc": "GitHub&#39;s Status Page - Incident with Pull Requests, Git Operations and Issues.",
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 10,
-      "title": "[GitHub] valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 49.2
-    },
-    {
-      "rank": 11,
       "title": "So my ISP was hijacking my DNS",
       "url": "https://karthihegde.dev/posts/dns_tampering",
       "desc": "",
@@ -124,48 +115,26 @@
       "score": 47.0
     },
     {
+      "rank": 11,
+      "title": "[GitHub] KKKKhazix/agent-autoloop",
+      "url": "https://github.com/kkkkhazix/agent-autoloop",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 44.4
+    },
+    {
       "rank": 12,
-      "title": "Observations from Running stealmybitcoin.com",
-      "url": "https://pavursec.com/blog/stealmybitcoin",
-      "desc": "",
+      "title": "[GitHub] Verlintas/NOIR",
+      "url": "https://github.com/verlintas/noir",
+      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
       "tag": "综合",
       "sources": [
-        "lobsters"
+        "github"
       ],
-      "score": 47.0
-    },
-    {
-      "rank": 13,
-      "title": "C++26 Disapproved",
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 14,
-      "title": "Death comes for XSLT",
-      "url": "https://dbushell.com/2026/11/03/xslt-rip",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 15,
-      "title": "Introducing Adaptive Dark Mode",
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
+      "score": 42.2
     }
   ]
 }

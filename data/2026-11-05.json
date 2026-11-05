@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-05",
+  "count": 12,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Sshole",
+      "url": "https://sshhole.com",
+      "desc": "openssh on musl linux has been letting people into password-less accounts since 2016.",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo",
+      "desc": "Plus new CSS functions and WEbGL2 improvements.",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 53.0
+    },
+    {
+      "rank": 3,
+      "title": "[GitHub] deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "desc": "Towards a More Autonomous Agent System",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "[GitHub] storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "[GitHub] patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "url": "https://www.openssh.org/releasenotes.html",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base",
+      "desc": "ERNIE 5.5 Flash Base: a 280B-A14B hybrid-attention MoE pretrained on 33.5T tokens. An open, efficient pretraining base.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "Lemmings CSS Animation",
+      "url": "https://markblah.github.io/lemmings",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 9,
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "So my ISP was hijacking my DNS",
+      "url": "https://karthihegde.dev/posts/dns_tampering",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "[GitHub] KKKKhazix/agent-autoloop",
+      "url": "https://github.com/kkkkhazix/agent-autoloop",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 44.4
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] Verlintas/NOIR",
+      "url": "https://github.com/verlintas/noir",
+      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.2
+    }
+  ]
+}
