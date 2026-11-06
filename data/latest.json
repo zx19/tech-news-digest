@@ -1,33 +1,21 @@
 {
-  "date": "2026-11-05",
-  "count": 12,
+  "date": "2026-11-06",
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Sshole",
+      "title": "sshole",
       "url": "https://sshhole.com",
       "desc": "openssh on musl linux has been letting people into password-less accounts since 2016.",
       "tag": "综合",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "lobsters",
+        "hackernews"
       ],
       "score": 56.0
     },
     {
       "rank": 2,
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo",
-      "desc": "Plus new CSS functions and WEbGL2 improvements.",
-      "tag": "综合",
-      "sources": [
-        "hackernews",
-        "lobsters"
-      ],
-      "score": 53.0
-    },
-    {
-      "rank": 3,
       "title": "[GitHub] deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "desc": "Towards a More Autonomous Agent System",
@@ -38,7 +26,7 @@
       "score": 50.0
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "[GitHub] storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
       "desc": "Craft Anything: understand how any software works, and craft your own.",
@@ -49,21 +37,32 @@
       "score": 50.0
     },
     {
+      "rank": 4,
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "desc": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
       "rank": 5,
-      "title": "[GitHub] patch-gg/pixelfx",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "url": "https://github.com/privsec-dev/banking-apps-compat-report/issues/105",
+      "desc": "Is there an existing issue for this? I have searched the existing issues App name ASN Bank Link to app https://play.google.com/store/apps/details?id=nl.devolksbank.asn.bankieren App version 2.40.2 ...",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
       "score": 50.0
     },
     {
       "rank": 6,
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "url": "https://www.openssh.org/releasenotes.html",
-      "desc": "",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/bui",
+      "desc": "Blender&#39;s GPU Accelerated UI, Decoupled from it&#39;s original codebase. Supports Rust, Python, JS, React, C &amp; C++. Twice as good as GPUI - ppmpreetham/BUI",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -72,9 +71,9 @@
     },
     {
       "rank": 7,
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base",
-      "desc": "ERNIE 5.5 Flash Base: a 280B-A14B hybrid-attention MoE pretrained on 33.5T tokens. An open, efficient pretraining base.",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "desc": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my perm...",
       "tag": "AI/ML",
       "sources": [
         "hackernews"
@@ -83,9 +82,9 @@
     },
     {
       "rank": 8,
-      "title": "Lemmings CSS Animation",
-      "url": "https://markblah.github.io/lemmings",
-      "desc": "",
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "url": "https://apps.metaebene.me/en/kugelblitz",
+      "desc": "The Earth and its neighbors as a 3D globe and atlas for the Mac – maps and open geodata on real terrain.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -94,8 +93,8 @@
     },
     {
       "rank": 9,
-      "title": "Declarative Dragging",
-      "url": "https://declarative-dragging.github.io",
+      "title": "Making musl and proprietary NVIDIA drivers work together",
+      "url": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -105,9 +104,9 @@
     },
     {
       "rank": 10,
-      "title": "So my ISP was hijacking my DNS",
-      "url": "https://karthihegde.dev/posts/dns_tampering",
-      "desc": "",
+      "title": "What are you doing this weekend?",
+      "url": "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend",
+      "desc": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback.\nPlease keep in mind it’s more than OK to do nothing at all too!",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -116,6 +115,28 @@
     },
     {
       "rank": 11,
+      "title": "Software Line Specialist",
+      "url": "https://lovro-bikic.github.io/software-line-specialist",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "Local-first meeting notetaker. On-device transcription, no stored audio, E2E encrypted sync",
+      "url": "https://hellonod.app/how-it-works",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
       "title": "[GitHub] KKKKhazix/agent-autoloop",
       "url": "https://github.com/kkkkhazix/agent-autoloop",
       "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
@@ -123,18 +144,29 @@
       "sources": [
         "github"
       ],
-      "score": 44.4
+      "score": 45.8
     },
     {
-      "rank": 12,
-      "title": "[GitHub] Verlintas/NOIR",
-      "url": "https://github.com/verlintas/noir",
-      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+      "rank": 14,
+      "title": "[GitHub] zortos293/Lichii",
+      "url": "https://github.com/zortos293/lichii",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
       "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 42.2
+      "score": 45.0
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/google_ai_pro_2year_zerocost_auto",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 43.4
     }
   ]
 }
