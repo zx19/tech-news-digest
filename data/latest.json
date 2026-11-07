@@ -1,47 +1,48 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "desc": "openssh on musl linux has been letting people into password-less accounts since 2016.",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
       "score": 56.0
     },
     {
       "rank": 2,
-      "title": "[GitHub] deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "desc": "Towards a More Autonomous Agent System",
-      "tag": "AI/ML",
+      "title": "Upload Your RAM",
+      "url": "https://uploadyourram.org",
+      "desc": "",
+      "tag": "综合",
       "sources": [
-        "github"
+        "hackernews",
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 56.0
     },
     {
       "rank": 3,
-      "title": "[GitHub] storytold/craft-anything",
-      "url": "https://github.com/storytold/craft-anything",
-      "desc": "Craft Anything: understand how any software works, and craft your own.",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
       "score": 50.0
     },
     {
       "rank": 4,
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-      "desc": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-      "tag": "AI/ML",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "desc": "Every Mac since macOS 13 (2022) ships a pair of daemons whose only purpose in life is to build a graph about who you are, who you know, how those people are related to you and to each other, how you c",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -49,9 +50,9 @@
     },
     {
       "rank": 5,
-      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "url": "https://github.com/privsec-dev/banking-apps-compat-report/issues/105",
-      "desc": "Is there an existing issue for this? I have searched the existing issues App name ASN Bank Link to app https://play.google.com/store/apps/details?id=nl.devolksbank.asn.bankieren App version 2.40.2 ...",
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "desc": "Musk said in an X post the production wind-down would enable the automaker to accommodate increased output of its newly launched Cybercab model,",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -60,41 +61,41 @@
     },
     {
       "rank": 6,
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "url": "https://github.com/ppmpreetham/bui",
-      "desc": "Blender&#39;s GPU Accelerated UI, Decoupled from it&#39;s original codebase. Supports Rust, Python, JS, React, C &amp; C++. Twice as good as GPUI - ppmpreetham/BUI",
-      "tag": "综合",
+      "title": "How are you dealing with all the negative side effects of AI on the web?",
+      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+      "desc": "It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.\nSearch engines now rank links full of slop at the top, which ironically make LLM summ",
+      "tag": "AI/ML",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 7,
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "desc": "Bug Description I receive dozens of scam emails per day because claude code divulged my email to arbitrary 3rd parties in the User-Agent request header while conducting web searches without my perm...",
-      "tag": "AI/ML",
+      "title": "Scriptable GeoDNS: leaving AWS for Bunny",
+      "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+      "desc": "",
+      "tag": "云原生",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 8,
-      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-      "url": "https://apps.metaebene.me/en/kugelblitz",
-      "desc": "The Earth and its neighbors as a 3D globe and atlas for the Mac – maps and open geodata on real terrain.",
+      "title": "The Port That Does Not Exist",
+      "url": "https://acid.vegas/blog/the-port-that-does-not-exist",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 9,
-      "title": "Making musl and proprietary NVIDIA drivers work together",
-      "url": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
+      "title": "Meridian — an experimental web browser built on Servo and GPUI",
+      "url": "https://op.tngl.io/meridian",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -104,9 +105,9 @@
     },
     {
       "rank": 10,
-      "title": "What are you doing this weekend?",
-      "url": "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend",
-      "desc": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback.\nPlease keep in mind it’s more than OK to do nothing at all too!",
+      "title": "Progress Report: Linux 7.3 - Asahi Linux",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -115,28 +116,6 @@
     },
     {
       "rank": 11,
-      "title": "Software Line Specialist",
-      "url": "https://lovro-bikic.github.io/software-line-specialist",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 12,
-      "title": "Local-first meeting notetaker. On-device transcription, no stored audio, E2E encrypted sync",
-      "url": "https://hellonod.app/how-it-works",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 13,
       "title": "[GitHub] KKKKhazix/agent-autoloop",
       "url": "https://github.com/kkkkhazix/agent-autoloop",
       "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
@@ -144,21 +123,10 @@
       "sources": [
         "github"
       ],
-      "score": 45.8
+      "score": 46.7
     },
     {
-      "rank": 14,
-      "title": "[GitHub] zortos293/Lichii",
-      "url": "https://github.com/zortos293/lichii",
-      "desc": "VERY experimental Nintendo Switch 2 emulator",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 45.0
-    },
-    {
-      "rank": 15,
+      "rank": 12,
       "title": "[GitHub] worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "url": "https://github.com/worldonlyu/google_ai_pro_2year_zerocost_auto",
       "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
@@ -166,7 +134,40 @@
       "sources": [
         "github"
       ],
-      "score": 43.4
+      "score": 44.0
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "desc": "Entire MacOS running in your terminal.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.6
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] mromidev/claude-animated-shorts",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 41.4
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] caru-ini/stack-diagram",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.1
     }
   ]
 }
