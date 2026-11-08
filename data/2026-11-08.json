@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-08",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest",
+      "desc": "A few days ago, I started watching Person of Interest, and I haven’t been able to stop. Aside from the fact that the show feels even more relevant today than...",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 2,
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick",
+      "desc": "What I run on my $10 USD OpenStick homelab",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "[GitHub] KKKKhazix/agent-autoloop",
+      "url": "https://github.com/kkkkhazix/agent-autoloop",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 47.2
+    },
+    {
+      "rank": 7,
+      "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
+      "url": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 8,
+      "title": "I’m not a fan of Deno’s security model (2024)",
+      "url": "https://goldstein.lol/posts/deno-security",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "Introducing Project Steadfast",
+      "url": "https://noteflakes.com/articles/2026-11-07-introducing-project-steadfast",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "How are you dealing with all the negative side effects of AI on the web?",
+      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+      "desc": "It seems to me that the AI hype killed the web for good, but not for the reasons we immediately associate with it.\nSearch engines now rank links full of slop at the top, which ironically make LLM summ",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "Dear Open Source Developers: It's OK not to embargo",
+      "url": "https://opensourcesecurity.io/2026/10-embargo",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/google_ai_pro_2year_zerocost_auto",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 44.6
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] Minireel/HGhub",
+      "url": "https://github.com/minireel/hghub",
+      "desc": "YellowFruit third-party client",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 43.4
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] NotRexed/Hookshot",
+      "url": "https://github.com/notrexed/hookshot",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.4
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "desc": "Entire MacOS running in your terminal.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.0
+    }
+  ]
+}
