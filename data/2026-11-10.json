@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-10",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "The Hardest Tarball?",
+      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+      "desc": "Here is a curiosity: an archive that can be constructed using a single GNU tar invocation, that is extracted in 8 distinct ways depending on what tool you use.",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 53.0
+    },
+    {
+      "rank": 2,
+      "title": "[GitHub] NotRexed/Hookshot",
+      "url": "https://github.com/notrexed/hookshot",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider",
+      "desc": "Two Amazon engineers swapped Claude Sonnet 4.6 for a decision model in one of the world",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "url": "https://connect.queenslibrary.org",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "desc": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "[GitHub] huamidev/GestaltX",
+      "url": "https://github.com/huamidev/gestaltx",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 48.2
+    },
+    {
+      "rank": 8,
+      "title": "Open Graph images with Astro and Typst",
+      "url": "https://eaj.no/posts/open-graph-images-with-typst",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "Microsoft are rejecting your mail",
+      "url": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "You should try Gleam",
+      "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "Horrible public key tricks",
+      "url": "https://maurycyz.com/projects/badcert",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "Building a networking switch ASIC chip",
+      "url": "https://essenceia.github.io/projects/expresso",
+      "desc": "This is part 2, for part 1 see https://essenceia.github.io/projects/ethernet_switch_asic/\nComments",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/nx2navi",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 43.1
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/s2arm",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 42.0
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] JenkinWoo/sheeridVerify",
+      "url": "https://github.com/jenkinwoo/sheeridverify",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.0
+    }
+  ]
+}

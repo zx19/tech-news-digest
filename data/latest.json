@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "What is malloc doing, anyway?",
-      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-      "desc": "malloc has a very nice and simple interface: you ask for a certain amount of memory, and you’re given a void pointer to your block of contiguous bytes that’s been magicked into existence. Once you’re ",
+      "title": "The Hardest Tarball?",
+      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+      "desc": "Here is a curiosity: an archive that can be constructed using a single GNU tar invocation, that is extracted in 8 distinct ways depending on what tool you use.",
       "tag": "综合",
       "sources": [
         "hackernews",
         "lobsters"
       ],
-      "score": 56.0
+      "score": 53.0
     },
     {
       "rank": 2,
-      "title": "[GitHub] Minireel/HGhub",
-      "url": "https://github.com/minireel/hghub",
-      "desc": "YellowFruit third-party client",
+      "title": "[GitHub] NotRexed/Hookshot",
+      "url": "https://github.com/notrexed/hookshot",
+      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "tag": "综合",
       "sources": [
         "github"
@@ -27,10 +27,10 @@
     },
     {
       "rank": 3,
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "desc": "The new system will enable participating financial service providers to clear and settle payments in real time, providing a made-in-Canada platform for future innovation and prosperity.",
-      "tag": "AI/ML",
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "desc": "",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -38,10 +38,10 @@
     },
     {
       "rank": 4,
-      "title": "Fold Epic Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "desc": "",
-      "tag": "AI/ML",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider",
+      "desc": "Two Amazon engineers swapped Claude Sonnet 4.6 for a decision model in one of the world",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -49,10 +49,10 @@
     },
     {
       "rank": 5,
-      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet",
-      "desc": "See-through solar cells harvest some wavelengths of light to make electricity, while passing through the red and blue wavelengths that plants need. In a new agrivoltaics experiment, broccoli yields he",
-      "tag": "AI/ML",
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "url": "https://connect.queenslibrary.org",
+      "desc": "",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -60,10 +60,10 @@
     },
     {
       "rank": 6,
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-      "desc": "is Opus 5.5 nerfed? I just had Gemini 4 Argon analyze 1,400 Claude Code sessions and it found that on November 3, something definitely happened. the model name didn&#x27;t change, but the way it does ",
-      "tag": "综合",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "desc": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
+      "tag": "AI/ML",
       "sources": [
         "hackernews"
       ],
@@ -71,30 +71,19 @@
     },
     {
       "rank": 7,
-      "title": "[GitHub] NotRexed/Hookshot",
-      "url": "https://github.com/notrexed/hookshot",
-      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+      "title": "[GitHub] huamidev/GestaltX",
+      "url": "https://github.com/huamidev/gestaltx",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
       "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 48.5
+      "score": 48.2
     },
     {
       "rank": 8,
-      "title": "[GitHub] KKKKhazix/agent-autoloop",
-      "url": "https://github.com/kkkkhazix/agent-autoloop",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 47.8
-    },
-    {
-      "rank": 9,
-      "title": "How Much Energy Does Building Distro Packages Use",
-      "url": "https://www.wezm.net/v2/posts/2026/distro-energy-use",
+      "title": "Open Graph images with Astro and Typst",
+      "url": "https://eaj.no/posts/open-graph-images-with-typst",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -103,7 +92,29 @@
       "score": 47.0
     },
     {
+      "rank": 9,
+      "title": "Microsoft are rejecting your mail",
+      "url": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
       "rank": 10,
+      "title": "You should try Gleam",
+      "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
       "title": "Horrible public key tricks",
       "url": "https://maurycyz.com/projects/badcert",
       "desc": "",
@@ -114,21 +125,10 @@
       "score": 47.0
     },
     {
-      "rank": 11,
-      "title": "unlocking any car from X brand in most of the world",
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
       "rank": 12,
-      "title": "Let’s Talk About Why all This OT Stuff is Connected",
-      "url": "https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected",
-      "desc": "",
+      "title": "Building a networking switch ASIC chip",
+      "url": "https://essenceia.github.io/projects/expresso",
+      "desc": "This is part 2, for part 1 see https://essenceia.github.io/projects/ethernet_switch_asic/\nComments",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -137,28 +137,6 @@
     },
     {
       "rank": 13,
-      "title": "What are you doing this week?",
-      "url": "https://lobste.rs/s/tt42jc/what_are_you_doing_this_week",
-      "desc": "What are you doing this week? Feel free to share!\nKeep in mind it’s OK to do nothing at all, too.",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 14,
-      "title": "[GitHub] govijr/terminal-mac",
-      "url": "https://github.com/govijr/terminal-mac",
-      "desc": "Entire MacOS running in your terminal.",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 42.5
-    },
-    {
-      "rank": 15,
       "title": "[GitHub] tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/nx2navi",
       "desc": "",
@@ -166,7 +144,29 @@
       "sources": [
         "github"
       ],
-      "score": 41.5
+      "score": 43.1
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/s2arm",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 42.0
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] JenkinWoo/sheeridVerify",
+      "url": "https://github.com/jenkinwoo/sheeridverify",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.0
     }
   ]
 }
