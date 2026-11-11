@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "The Hardest Tarball?",
-      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-      "desc": "Here is a curiosity: an archive that can be constructed using a single GNU tar invocation, that is extracted in 8 distinct ways depending on what tool you use.",
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100",
+      "desc": "How I used voltage fault injection to unlock hardware features on a CMP 170HX.",
       "tag": "综合",
       "sources": [
         "hackernews",
         "lobsters"
       ],
-      "score": 53.0
+      "score": 56.0
     },
     {
       "rank": 2,
@@ -27,21 +27,21 @@
     },
     {
       "rank": 3,
-      "title": "AlphaProof Code",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "desc": "",
+      "title": "[GitHub] huamidev/GestaltX",
+      "url": "https://github.com/huamidev/gestaltx",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "github"
       ],
       "score": 50.0
     },
     {
       "rank": 4,
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider",
-      "desc": "Two Amazon engineers swapped Claude Sonnet 4.6 for a decision model in one of the world",
-      "tag": "综合",
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "desc": "AI agents analyzed NASA lidar data overnight and found a Maya site under the jungle that isn&#39;t on any map. Less than 72 hours later, Mexico&#39;s INAH replied.",
+      "tag": "AI/ML",
       "sources": [
         "hackernews"
       ],
@@ -49,9 +49,9 @@
     },
     {
       "rank": 5,
-      "title": "Queens Public library under ransomware attack e-borrowing suspended",
-      "url": "https://connect.queenslibrary.org",
-      "desc": "",
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "desc": "We asked 11 companies these 17 questions, and only a few answered them all.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -60,10 +60,10 @@
     },
     {
       "rank": 6,
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "desc": "Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.",
-      "tag": "AI/ML",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys",
+      "desc": "How to keep SSH keys in the macOS Secure Enclave, with Touch ID on every use and no third-party apps.",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -71,20 +71,20 @@
     },
     {
       "rank": 7,
-      "title": "[GitHub] huamidev/GestaltX",
-      "url": "https://github.com/huamidev/gestaltx",
-      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-      "tag": "综合",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
+      "desc": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple that makes it easy to run local AI models.",
+      "tag": "AI/ML",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "score": 48.2
+      "score": 50.0
     },
     {
       "rank": 8,
-      "title": "Open Graph images with Astro and Typst",
-      "url": "https://eaj.no/posts/open-graph-images-with-typst",
-      "desc": "",
+      "title": "How do you actually self-host securely?",
+      "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
+      "desc": "I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes s",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -93,9 +93,9 @@
     },
     {
       "rank": 9,
-      "title": "Microsoft are rejecting your mail",
-      "url": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail",
-      "desc": "",
+      "title": "What are some \"No AI\" apps/companies/resources you know of?",
+      "url": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
+      "desc": "Hey everyone I'm wondering if there's any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly \"anti\", but at least explicitly avoid i",
       "tag": "AI/ML",
       "sources": [
         "lobsters"
@@ -104,8 +104,8 @@
     },
     {
       "rank": 10,
-      "title": "You should try Gleam",
-      "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+      "title": ".name grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -115,8 +115,8 @@
     },
     {
       "rank": 11,
-      "title": "Horrible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert",
+      "title": "I deleted all my SSH keys",
+      "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -126,9 +126,9 @@
     },
     {
       "rank": 12,
-      "title": "Building a networking switch ASIC chip",
-      "url": "https://essenceia.github.io/projects/expresso",
-      "desc": "This is part 2, for part 1 see https://essenceia.github.io/projects/ethernet_switch_asic/\nComments",
+      "title": "In Memoriam: Tim Peters 1952–2026",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -144,7 +144,7 @@
       "sources": [
         "github"
       ],
-      "score": 43.1
+      "score": 44.3
     },
     {
       "rank": 14,
@@ -155,7 +155,7 @@
       "sources": [
         "github"
       ],
-      "score": 42.0
+      "score": 42.7
     },
     {
       "rank": 15,
@@ -166,7 +166,7 @@
       "sources": [
         "github"
       ],
-      "score": 41.0
+      "score": 41.1
     }
   ]
 }
