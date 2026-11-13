@@ -1,33 +1,21 @@
 {
-  "date": "2026-11-12",
-  "count": 15,
+  "date": "2026-11-13",
+  "count": 14,
   "items": [
     {
       "rank": 1,
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "desc": "I am immensely sad to announce that Tim Peters has died earlier this year on July 15. It’s hard to overestimate Tim’s influence on Python. He’s probably best known for writing the Zen of Python (PEP 2",
-      "tag": "综合",
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/rust-1.100.0",
+      "desc": "Empowering everyone to build reliable and efficient software.",
+      "tag": "语言/框架",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
       "score": 56.0
     },
     {
       "rank": 2,
-      "title": "Libreagi – Save OSS Models",
-      "url": "https://libreagi.com",
-      "desc": "A private BitTorrent tracker where members keep copies of the open models most likely to disappear.",
-      "tag": "AI/ML",
-      "sources": [
-        "lobsters",
-        "hackernews"
-      ],
-      "score": 53.0
-    },
-    {
-      "rank": 3,
       "title": "[GitHub] huamidev/GestaltX",
       "url": "https://github.com/huamidev/gestaltx",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
@@ -38,10 +26,21 @@
       "score": 50.0
     },
     {
+      "rank": 3,
+      "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
+      "desc": "The year is 2017. A string of annual wildfires rocks the West Coast. The sky looks like this in the daytime: My home, like many in the Bay Area, has no insulation and isn’t really air sealed. To avoid",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
       "rank": 4,
-      "title": "NVIDIA Announces CEO Transition",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-      "desc": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -50,9 +49,9 @@
     },
     {
       "rank": 5,
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us",
-      "desc": "Anthropic has filed to become a public company. Read the Foundersâ letter and other relevant information.",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -61,10 +60,10 @@
     },
     {
       "rank": 6,
-      "title": "Why Writing Correct Software Is Hard",
-      "url": "https://pron.github.io/posts/correctness-and-complexity",
-      "desc": "We try to understand the relationship between programs and correctness, and in particular, why writing correct programs must be hard. We will review results from computability theory and complexity th",
-      "tag": "综合",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "desc": "Claude&#39;s Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.",
+      "tag": "AI/ML",
       "sources": [
         "hackernews"
       ],
@@ -72,32 +71,32 @@
     },
     {
       "rank": 7,
-      "title": "Socratic Tutor",
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/skill.md",
-      "desc": "Agent skills. Contribute to janestreet/agent_skills development by creating an account on GitHub.",
+      "title": "How Not to Build a Music Player",
+      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 8,
-      "title": "A live tree of systemd jobs on the boot console",
-      "url": "https://codeberg.org/wvhulle/bootvine",
-      "desc": "A boot animation showing stages of systemd as a tree",
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 9,
-      "title": "How I accidentally became a millionaire",
-      "url": "https://lyra.horse/blog/2026/11/disinformation-machine",
+      "title": "The need for at least a third option",
+      "url": "https://blog.ovalerio.net/archives/3359",
       "desc": "",
-      "tag": "AI/ML",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -105,10 +104,10 @@
     },
     {
       "rank": 10,
-      "title": "The entirety of \"Let Over Lambda\" is now freely available online",
-      "url": "https://letoverlambda.com",
+      "title": "Contra \"Glue work considered harmful\"",
+      "url": "https://sunshowers.io/posts/glue-work",
       "desc": "",
-      "tag": "AI/ML",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -116,17 +115,6 @@
     },
     {
       "rank": 11,
-      "title": "Hijacking Samsung TV Smart Hub Ads",
-      "url": "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 12,
       "title": "[GitHub] tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/nx2navi",
       "desc": "",
@@ -134,10 +122,10 @@
       "sources": [
         "github"
       ],
-      "score": 45.4
+      "score": 46.3
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "[GitHub] jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/s2arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
@@ -145,29 +133,29 @@
       "sources": [
         "github"
       ],
-      "score": 43.2
+      "score": 43.5
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] Kianuni/Erosion-CN",
+      "url": "https://github.com/kianuni/erosion-cn",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.6
     },
     {
       "rank": 14,
-      "title": "[GitHub] JenkinWoo/sheeridVerify",
-      "url": "https://github.com/jenkinwoo/sheeridverify",
-      "desc": "",
+      "title": "[GitHub] HybridRobotics/supermimic",
+      "url": "https://github.com/hybridrobotics/supermimic",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
       "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 41.2
-    },
-    {
-      "rank": 15,
-      "title": "[GitHub] DIYgod/pinky",
-      "url": "https://github.com/diygod/pinky",
-      "desc": "Let AI agents use your phone, with you in the loop.",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 41.0
+      "score": 39.2
     }
   ]
 }
