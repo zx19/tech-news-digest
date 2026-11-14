@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-13",
-  "count": 14,
+  "date": "2026-11-14",
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Rust 1.100",
-      "url": "https://blog.rust-lang.org/2026/11/12/rust-1.100.0",
-      "desc": "Empowering everyone to build reliable and efficient software.",
-      "tag": "语言/框架",
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders",
+      "desc": "A terminal protocol for thin lines on cell edges: borders, rounded corners and gridlines that don",
+      "tag": "综合",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "lobsters",
+        "hackernews"
       ],
       "score": 56.0
     },
@@ -27,10 +27,10 @@
     },
     {
       "rank": 3,
-      "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
-      "desc": "The year is 2017. A string of annual wildfires rocks the West Coast. The sky looks like this in the daytime: My home, like many in the Bay Area, has no insulation and isn’t really air sealed. To avoid",
-      "tag": "AI/ML",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone",
+      "desc": "Building a camera and light controller around a rooted Redmi instead of assembling the same parts around a Raspberry Pi.",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -38,9 +38,9 @@
     },
     {
       "rank": 4,
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "desc": "",
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "desc": "Overview ggml 1.0.0 prunes the deprecated public API and the legacy DIAG_MASK ops, adds configurable YaRN truncation and FP8 support, and brings broad performance work across backends: few-row quan...",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -49,9 +49,9 @@
     },
     {
       "rank": 5,
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "desc": "",
+      "title": "Monkey Island: all 13 versions side by side",
+      "url": "https://monkeyisland.pages.dev",
+      "desc": "Every version of The Secret of Monkey Island (1990) side by side: Hercules, CGA, EGA, VGA, Amiga, Atari ST, Macintosh, FM Towns and Sega CD. 8 editions, 13 display modes, the same 12 scenes.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -60,9 +60,9 @@
     },
     {
       "rank": 6,
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "desc": "Claude&#39;s Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "desc": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory",
       "tag": "AI/ML",
       "sources": [
         "hackernews"
@@ -71,19 +71,19 @@
     },
     {
       "rank": 7,
-      "title": "How Not to Build a Music Player",
-      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
-      "desc": "",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "desc": "Guide to running Qwen3.8 quants including Qwen3.8-27B on your local setup.",
       "tag": "综合",
       "sources": [
-        "lobsters"
+        "hackernews"
       ],
-      "score": 47.0
+      "score": 50.0
     },
     {
       "rank": 8,
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders",
+      "title": "How Not to Build a Music Player",
+      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -104,8 +104,8 @@
     },
     {
       "rank": 10,
-      "title": "Contra \"Glue work considered harmful\"",
-      "url": "https://sunshowers.io/posts/glue-work",
+      "title": "What happened to 3com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -115,14 +115,14 @@
     },
     {
       "rank": 11,
-      "title": "[GitHub] tangerineturtle1/NX2navi",
-      "url": "https://github.com/tangerineturtle1/nx2navi",
+      "title": "Probabilistic data structures in Go",
+      "url": "https://antonz.org/probabilistic-data-structures",
       "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "lobsters"
       ],
-      "score": 46.3
+      "score": 47.0
     },
     {
       "rank": 12,
@@ -133,7 +133,7 @@
       "sources": [
         "github"
       ],
-      "score": 43.5
+      "score": 43.8
     },
     {
       "rank": 13,
@@ -144,18 +144,29 @@
       "sources": [
         "github"
       ],
-      "score": 40.6
+      "score": 41.1
     },
     {
       "rank": 14,
-      "title": "[GitHub] HybridRobotics/supermimic",
-      "url": "https://github.com/hybridrobotics/supermimic",
-      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "title": "[GitHub] apex-compute/ANR",
+      "url": "https://github.com/apex-compute/anr",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
       "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 39.2
+      "score": 40.1
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "desc": "Chat Demo",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 39.6
     }
   ]
 }
