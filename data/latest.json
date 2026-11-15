@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders",
-      "desc": "A terminal protocol for thin lines on cell edges: borders, rounded corners and gridlines that don",
+      "title": "My favourite modern NES games",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
       "score": 56.0
     },
@@ -27,9 +27,9 @@
     },
     {
       "rank": 3,
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone",
-      "desc": "Building a camera and light controller around a rooted Redmi instead of assembling the same parts around a Raspberry Pi.",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "desc": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -38,9 +38,9 @@
     },
     {
       "rank": 4,
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "desc": "Overview ggml 1.0.0 prunes the deprecated public API and the legacy DIAG_MASK ops, adds configurable YaRN truncation and FP8 support, and brings broad performance work across backends: few-row quan...",
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -49,9 +49,9 @@
     },
     {
       "rank": 5,
-      "title": "Monkey Island: all 13 versions side by side",
-      "url": "https://monkeyisland.pages.dev",
-      "desc": "Every version of The Secret of Monkey Island (1990) side by side: Hercules, CGA, EGA, VGA, Amiga, Atari ST, Macintosh, FM Towns and Sega CD. 8 editions, 13 display modes, the same 12 scenes.",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "desc": "Judge Noël Wise found buyers plausibly alleged the chipmakers conspired to cut conventional DRAM supply and shift capacity to HBM, distinguishing the Ninth Circuit&#x27;s DRAM II.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -60,9 +60,9 @@
     },
     {
       "rank": 6,
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "desc": "Following the departure of now-former NVIDIA CEO, Jensen Huang, a new report by The Wall Street Journal (via Wccftech) has emerged alleging that NVIDIA artificially inflated the ongoing GPU and memory",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en",
+      "desc": "Our analysis of 159,041 Lovable projects reveals many cases where sensitive data was accessible without logging in.",
       "tag": "AI/ML",
       "sources": [
         "hackernews"
@@ -71,19 +71,19 @@
     },
     {
       "rank": 7,
-      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "desc": "Guide to running Qwen3.8 quants including Qwen3.8-27B on your local setup.",
+      "title": "Memory management in 40 major C projects, a survey",
+      "url": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 8,
-      "title": "How Not to Build a Music Player",
-      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
+      "title": "cursor:pointer on buttons",
+      "url": "https://blog.kizu.dev/cursors",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -93,8 +93,8 @@
     },
     {
       "rank": 9,
-      "title": "The need for at least a third option",
-      "url": "https://blog.ovalerio.net/archives/3359",
+      "title": "Let Me Let You Own Your Data",
+      "url": "https://www.willett.io/posts/data",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -104,8 +104,8 @@
     },
     {
       "rank": 10,
-      "title": "What happened to 3com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com",
+      "title": "Periodic-Oriented Programming for FIRST Robotics",
+      "url": "https://bvisness.me/periodic-oriented-programming",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -115,8 +115,8 @@
     },
     {
       "rank": 11,
-      "title": "Probabilistic data structures in Go",
-      "url": "https://antonz.org/probabilistic-data-structures",
+      "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
+      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -126,14 +126,14 @@
     },
     {
       "rank": 12,
-      "title": "[GitHub] jhaizhou-ops/S2Arm",
-      "url": "https://github.com/jhaizhou-ops/s2arm",
-      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
+      "title": "[GitHub] deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "desc": "Chat Demo",
       "tag": "AI/ML",
       "sources": [
         "github"
       ],
-      "score": 43.8
+      "score": 42.4
     },
     {
       "rank": 13,
@@ -144,7 +144,7 @@
       "sources": [
         "github"
       ],
-      "score": 41.1
+      "score": 41.3
     },
     {
       "rank": 14,
@@ -155,18 +155,18 @@
       "sources": [
         "github"
       ],
-      "score": 40.1
+      "score": 40.9
     },
     {
       "rank": 15,
-      "title": "[GitHub] deepseek-ai/chat-demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "desc": "Chat Demo",
-      "tag": "AI/ML",
+      "title": "[GitHub] FrigadeHQ/yogurt",
+      "url": "https://github.com/frigadehq/yogurt",
+      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 39.6
+      "score": 39.8
     }
   ]
 }

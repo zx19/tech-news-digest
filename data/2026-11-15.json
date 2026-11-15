@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-15",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "My favourite modern NES games",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "[GitHub] huamidev/GestaltX",
+      "url": "https://github.com/huamidev/gestaltx",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "desc": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "desc": "Judge Noël Wise found buyers plausibly alleged the chipmakers conspired to cut conventional DRAM supply and shift capacity to HBM, distinguishing the Ninth Circuit&#x27;s DRAM II.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en",
+      "desc": "Our analysis of 159,041 Lovable projects reveals many cases where sensitive data was accessible without logging in.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Memory management in 40 major C projects, a survey",
+      "url": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 8,
+      "title": "cursor:pointer on buttons",
+      "url": "https://blog.kizu.dev/cursors",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "Let Me Let You Own Your Data",
+      "url": "https://www.willett.io/posts/data",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "Periodic-Oriented Programming for FIRST Robotics",
+      "url": "https://bvisness.me/periodic-oriented-programming",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
+      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "desc": "Chat Demo",
+      "tag": "AI/ML",
+      "sources": [
+        "github"
+      ],
+      "score": 42.4
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] Kianuni/Erosion-CN",
+      "url": "https://github.com/kianuni/erosion-cn",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.3
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] apex-compute/ANR",
+      "url": "https://github.com/apex-compute/anr",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.9
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] FrigadeHQ/yogurt",
+      "url": "https://github.com/frigadehq/yogurt",
+      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 39.8
+    }
+  ]
+}
