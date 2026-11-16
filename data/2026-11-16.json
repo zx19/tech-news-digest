@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-16",
+  "count": 13,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss",
+      "desc": "One-click UXSS issue with uBlock Origin on Firefox through element picker",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff",
+      "desc": "",
+      "tag": "语言/框架",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 53.0
+    },
+    {
+      "rank": 3,
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life",
+      "desc": "Two months ago, I got a new laptop. It’s a Lenovo Thinkpad z61t. I actually ordered a t61, but I accidentally got the z61 instead — and, I actually really like it. It’s quite similar to the t61, but a",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Migrating from GitHub to Codeberg",
+      "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 7,
+      "title": "What is w2rt6byl5nf1opmc-a[.]com?",
+      "url": "https://jack.cab/blog/siterate.html",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 8,
+      "title": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "Paint in the memory of other programs",
+      "url": "https://citrons.xyz/journal/2026-04-13",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/isejqv/what_are_you_doing_this_week",
+      "desc": "What are you doing this week? Feel free to share!\nKeep in mind it’s OK to do nothing at all, too.",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "从自动扩缩容到跨池调度：作业帮如何让 Flink 计算资源节省 30%？",
+      "url": "https://www.infoq.cn/article/utrbuciag5h9tiqcwgxi",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    },
+    {
+      "rank": 12,
+      "title": "亚马逊云科技为EventBridge推出增强型自定义事件总线",
+      "url": "https://www.infoq.cn/article/j4mjlmwsgagkt3ervsjq",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    },
+    {
+      "rank": 13,
+      "title": "Uber Eats重建搜索流水线，端到端延迟降低50%",
+      "url": "https://www.infoq.cn/article/ah2izwcupxx2y1hern7b",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "infoq_cn"
+      ],
+      "score": 45.5
+    }
+  ]
+}
