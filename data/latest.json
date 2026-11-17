@@ -1,36 +1,34 @@
 {
-  "date": "2026-11-16",
-  "count": 13,
+  "date": "2026-11-17",
+  "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "url": "https://iter.ca/post/ubo-uxss",
-      "desc": "One-click UXSS issue with uBlock Origin on Firefox through element picker",
-      "tag": "综合",
+      "title": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
+      "desc": "FrontierHarness Eval v1.1 ran 22 coding-agent harnesses with 5 models on the same 62 tasks, 4 times each: 27,280 runs. The best-value harness was different with each model, and cost ranks moved far be",
+      "tag": "AI/ML",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "hackernews"
       ],
-      "score": 56.0
+      "score": 50.0
     },
     {
       "rank": 2,
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "url": "https://burntsushi.net/jiff",
-      "desc": "",
-      "tag": "语言/框架",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "desc": "Previous results were mixed, but the first national study to track individual students’ growth shows bans may help reverse declines.",
+      "tag": "综合",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "hackernews"
       ],
-      "score": 53.0
+      "score": 50.0
     },
     {
       "rank": 3,
-      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life",
-      "desc": "Two months ago, I got a new laptop. It’s a Lenovo Thinkpad z61t. I actually ordered a t61, but I accidentally got the z61 instead — and, I actually really like it. It’s quite similar to the t61, but a",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -39,9 +37,9 @@
     },
     {
       "rank": 4,
-      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
-      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w",
-      "desc": "",
+      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+      "url": "https://visualbasic.world",
+      "desc": "A visual archive of the things we made in Visual Basic.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -50,9 +48,9 @@
     },
     {
       "rank": 5,
-      "title": "How to make almost anything",
-      "url": "https://pub.cba.mit.edu/863.26/site",
-      "desc": "",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely",
+      "desc": "On 16 November 2026, malicious JavaScript was served to visitors of 178 organisations through the Optimizely Web experimentation platform. The list includes some of the most visited sites in the world",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -61,21 +59,21 @@
     },
     {
       "rank": 6,
-      "title": "Migrating from GitHub to Codeberg",
-      "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg",
-      "desc": "",
-      "tag": "综合",
+      "title": "[GitHub] deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "desc": "Chat Demo",
+      "tag": "AI/ML",
       "sources": [
-        "lobsters"
+        "github"
       ],
-      "score": 47.0
+      "score": 48.5
     },
     {
       "rank": 7,
-      "title": "What is w2rt6byl5nf1opmc-a[.]com?",
-      "url": "https://jack.cab/blog/siterate.html",
+      "title": "Actual curl rewrites in rust",
+      "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust",
       "desc": "",
-      "tag": "综合",
+      "tag": "语言/框架",
       "sources": [
         "lobsters"
       ],
@@ -83,8 +81,8 @@
     },
     {
       "rank": 8,
-      "title": "Squircles",
-      "url": "https://linebender.org/wiki/curves/squircle",
+      "title": "Redict is deprecated",
+      "url": "https://redict.io/posts/2026-11-17-redict-deprecated",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -94,10 +92,10 @@
     },
     {
       "rank": 9,
-      "title": "Paint in the memory of other programs",
-      "url": "https://citrons.xyz/journal/2026-04-13",
-      "desc": "",
-      "tag": "AI/ML",
+      "title": "Github Redesign (2019)",
+      "url": "https://tonsky.me/blog/github-redesign",
+      "desc": "I suggest the conversation steer away from the controversial last point where he flattens the UI quite a bit to make it less \"dated\", as the rest was quite good up until that point, and that deserves ",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -105,10 +103,10 @@
     },
     {
       "rank": 10,
-      "title": "What are you doing this week?",
-      "url": "https://lobste.rs/s/isejqv/what_are_you_doing_this_week",
-      "desc": "What are you doing this week? Feel free to share!\nKeep in mind it’s OK to do nothing at all, too.",
-      "tag": "综合",
+      "title": "How Rust Changed Me As A Developer",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me",
+      "desc": "",
+      "tag": "语言/框架",
       "sources": [
         "lobsters"
       ],
@@ -116,36 +114,58 @@
     },
     {
       "rank": 11,
-      "title": "从自动扩缩容到跨池调度：作业帮如何让 Flink 计算资源节省 30%？",
-      "url": "https://www.infoq.cn/article/utrbuciag5h9tiqcwgxi",
+      "title": "My Emacs 31 contributions",
+      "url": "https://xenodium.com/my-emacs-31-contributions",
       "desc": "",
       "tag": "综合",
       "sources": [
-        "infoq_cn"
+        "lobsters"
       ],
-      "score": 45.5
+      "score": 47.0
     },
     {
       "rank": 12,
-      "title": "亚马逊云科技为EventBridge推出增强型自定义事件总线",
-      "url": "https://www.infoq.cn/article/j4mjlmwsgagkt3ervsjq",
-      "desc": "",
+      "title": "[GitHub] apex-compute/ANR",
+      "url": "https://github.com/apex-compute/anr",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
       "tag": "综合",
       "sources": [
-        "infoq_cn"
+        "github"
       ],
-      "score": 45.5
+      "score": 42.7
     },
     {
       "rank": 13,
-      "title": "Uber Eats重建搜索流水线，端到端延迟降低50%",
-      "url": "https://www.infoq.cn/article/ah2izwcupxx2y1hern7b",
-      "desc": "",
+      "title": "[GitHub] Noniv/abyssal-garden",
+      "url": "https://github.com/noniv/abyssal-garden",
+      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound fi",
       "tag": "综合",
       "sources": [
-        "infoq_cn"
+        "github"
       ],
-      "score": 45.5
+      "score": 41.2
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/wireless-device-battery-monitor",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.1
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 39.7
     }
   ]
 }
