@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "What is the best harness for each model?",
-      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
-      "desc": "FrontierHarness Eval v1.1 ran 22 coding-agent harnesses with 5 models on the same 62 tasks, 4 times each: 27,280 runs. The best-value harness was different with each model, and cost ranks moved far be",
-      "tag": "AI/ML",
+      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "desc": "Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk.",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -15,9 +15,9 @@
     },
     {
       "rank": 2,
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-      "desc": "Previous results were mixed, but the first national study to track individual students’ growth shows bans may help reverse declines.",
+      "title": "Deutsche Bank",
+      "url": "https://www.inside-db.com",
+      "desc": "A major global investigation revealing the inner workings of the financial giant, Deutsche Bank.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -26,9 +26,9 @@
     },
     {
       "rank": 3,
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "url": "https://www.cs.cmu.edu/learn",
-      "desc": "",
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking",
+      "desc": "On November 24, 2026, the non-profit DNS resolver Quad9 stops serving users in France rather than obey a beIN Sports blocking order. Here&#x27;s what Quad9 is, how the French law got here, and why for",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -37,9 +37,9 @@
     },
     {
       "rank": 4,
-      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-      "url": "https://visualbasic.world",
-      "desc": "A visual archive of the things we made in Visual Basic.",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io",
+      "desc": "One learned energy refines, stops and selects. Over 99% Sudoku-Extreme accuracy with 1.8M parameters, up to 345x fewer inference FLOPs than EqR at comparable accuracy.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -48,9 +48,9 @@
     },
     {
       "rank": 5,
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely",
-      "desc": "On 16 November 2026, malicious JavaScript was served to visitors of 178 organisations through the Optimizely Web experimentation platform. The list includes some of the most visited sites in the world",
+      "title": "A Perfect SimCity",
+      "url": "https://www.jeffquast.com/post/a-perfect-simcity",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -66,14 +66,14 @@
       "sources": [
         "github"
       ],
-      "score": 48.5
+      "score": 49.4
     },
     {
       "rank": 7,
-      "title": "Actual curl rewrites in rust",
-      "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust",
-      "desc": "",
-      "tag": "语言/框架",
+      "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+      "url": "https://social.anoxinon.de/@codeberg/117636454915265360",
+      "desc": "Note: codeberg's servers are up, it's just the domain that's gone. It works perfectly after adding the following line to /etc/hosts:\n217.197.84.140 codeberg.org\n\nUpdate: it's now up again, and the abo",
+      "tag": "AI/ML",
       "sources": [
         "lobsters"
       ],
@@ -81,8 +81,8 @@
     },
     {
       "rank": 8,
-      "title": "Redict is deprecated",
-      "url": "https://redict.io/posts/2026-11-17-redict-deprecated",
+      "title": "Java4Shell is a reason to use Java",
+      "url": "https://mccue.dev/pages/11-18-26-java4shell",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -92,9 +92,9 @@
     },
     {
       "rank": 9,
-      "title": "Github Redesign (2019)",
-      "url": "https://tonsky.me/blog/github-redesign",
-      "desc": "I suggest the conversation steer away from the controversial last point where he flattens the UI quite a bit to make it less \"dated\", as the rest was quite good up until that point, and that deserves ",
+      "title": "Windows 11 collects data on which coding agents and dev tools you use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -103,10 +103,10 @@
     },
     {
       "rank": 10,
-      "title": "How Rust Changed Me As A Developer",
-      "url": "https://blog.startifact.com/posts/how-rust-changed-me",
+      "title": "nginx2root",
+      "url": "https://xint.io/blog/nginx2root-remote-code-execution",
       "desc": "",
-      "tag": "语言/框架",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -114,8 +114,8 @@
     },
     {
       "rank": 11,
-      "title": "My Emacs 31 contributions",
-      "url": "https://xenodium.com/my-emacs-31-contributions",
+      "title": "Java4Shell: Write once, RCE everywhere",
+      "url": "https://calif.io/java4shell",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -125,28 +125,6 @@
     },
     {
       "rank": 12,
-      "title": "[GitHub] apex-compute/ANR",
-      "url": "https://github.com/apex-compute/anr",
-      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 42.7
-    },
-    {
-      "rank": 13,
-      "title": "[GitHub] Noniv/abyssal-garden",
-      "url": "https://github.com/noniv/abyssal-garden",
-      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound fi",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 41.2
-    },
-    {
-      "rank": 14,
       "title": "[GitHub] krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/wireless-device-battery-monitor",
       "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
@@ -154,18 +132,40 @@
       "sources": [
         "github"
       ],
-      "score": 41.1
+      "score": 46.1
     },
     {
-      "rank": 15,
-      "title": "[GitHub] duwqijlk/muse-protocol",
-      "url": "https://github.com/duwqijlk/muse-protocol",
-      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "rank": 13,
+      "title": "[GitHub] erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "tag": "语言/框架",
+      "sources": [
+        "github"
+      ],
+      "score": 43.7
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] Noniv/abyssal-garden",
+      "url": "https://github.com/noniv/abyssal-garden",
+      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound fi",
       "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 39.7
+      "score": 42.0
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] Immortal-Protocols/lastbook",
+      "url": "https://github.com/immortal-protocols/lastbook",
+      "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 41.2
     }
   ]
 }
