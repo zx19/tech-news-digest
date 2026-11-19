@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-19",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell",
+      "desc": "Ruby2Shell (GHSA-34m4-m9fh-gqp5): a one-byte heap overflow in Ruby",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "What's New in PHP 8.6",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "desc": "PHP 8.6 is a major update of the PHP language, with new features including Partial Function Application, a new Duration class, a Polling API, and a new clamp() function",
+      "tag": "综合",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 3,
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage",
+      "desc": "How we built Blobasaur, a sharded, distributed, lightweight blob storage server to solve our high-throughput blob read/write usecase.",
+      "tag": "数据库",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 4,
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff",
+      "desc": "The European Commission went from a Matrix proof of concept in December 2025 to a sovereign communication tool rolled out to every Commission laptop by September 2026. That tool, built on Matrix by El",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Everything you need to survive and rebuild society",
+      "url": "https://lastbook.org",
+      "desc": "Free, open-source survival library with local AI, maps and how-to videos. Works offline after setup on Mac, Windows and Linux.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "[GitHub] erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "tag": "语言/框架",
+      "sources": [
+        "github"
+      ],
+      "score": 49.3
+    },
+    {
+      "rank": 7,
+      "title": "[GitHub] krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/wireless-device-battery-monitor",
+      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 48.5
+    },
+    {
+      "rank": 8,
+      "title": "We Need Smart People Who Give a Shit",
+      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "Design for Understandability",
+      "url": "https://jschuster.org/blog/2026/11/19/design-for-understandability",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "PostgreSQL 19 Released",
+      "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449",
+      "desc": "",
+      "tag": "数据库",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
+      "url": "https://social.anoxinon.de/@codeberg/117636454915265360",
+      "desc": "Note: codeberg's servers are up, it's just the domain that's gone. It works perfectly after adding the following line to /etc/hosts:\n217.197.84.140 codeberg.org\n\nUpdate: it's now up again, and the abo",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "nginx2root",
+      "url": "https://xint.io/blog/nginx2root-remote-code-execution",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] gylive/google-ultra",
+      "url": "https://github.com/gylive/google-ultra",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.3
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] Hut-hzf/ung220z-tool",
+      "url": "https://github.com/hut-hzf/ung220z-tool",
+      "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.1
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 40.0
+    }
+  ]
+}
