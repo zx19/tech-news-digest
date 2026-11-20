@@ -1,67 +1,21 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell",
-      "desc": "Ruby2Shell (GHSA-34m4-m9fh-gqp5): a one-byte heap overflow in Ruby",
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "desc": "",
       "tag": "AI/ML",
       "sources": [
-        "hackernews",
-        "lobsters"
+        "lobsters",
+        "hackernews"
       ],
       "score": 56.0
     },
     {
       "rank": 2,
-      "title": "What's New in PHP 8.6",
-      "url": "https://www.php.net/releases/8.6/en.php",
-      "desc": "PHP 8.6 is a major update of the PHP language, with new features including Partial Function Application, a new Duration class, a Polling API, and a new clamp() function",
-      "tag": "综合",
-      "sources": [
-        "hackernews",
-        "lobsters"
-      ],
-      "score": 56.0
-    },
-    {
-      "rank": 3,
-      "title": "Distributed, high-performance blob storage on SQLite",
-      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage",
-      "desc": "How we built Blobasaur, a sharded, distributed, lightweight blob storage server to solve our high-throughput blob read/write usecase.",
-      "tag": "数据库",
-      "sources": [
-        "hackernews",
-        "lobsters"
-      ],
-      "score": 56.0
-    },
-    {
-      "rank": 4,
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff",
-      "desc": "The European Commission went from a Matrix proof of concept in December 2025 to a sovereign communication tool rolled out to every Commission laptop by September 2026. That tool, built on Matrix by El",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 5,
-      "title": "Everything you need to survive and rebuild society",
-      "url": "https://lastbook.org",
-      "desc": "Free, open-source survival library with local AI, maps and how-to videos. Works offline after setup on Mac, Windows and Linux.",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 6,
       "title": "[GitHub] erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
       "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
@@ -69,10 +23,10 @@
       "sources": [
         "github"
       ],
-      "score": 49.3
+      "score": 50.0
     },
     {
-      "rank": 7,
+      "rank": 3,
       "title": "[GitHub] krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/wireless-device-battery-monitor",
       "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
@@ -80,23 +34,67 @@
       "sources": [
         "github"
       ],
-      "score": 48.5
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "I'll never buy Framework hardware again",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again",
+      "desc": "TL;DR: We bought a 3000 EUR Framework Laptop 16 for one of our developers. It was broken out of the box. Three months, around thirty support emails, two replacement parts and a trip to their repair ce",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "desc": "In the early 1960s, Richard Feynman gave a series of undergraduate lectures that were collected into a book called the Feynman Lectures on Physics. Absent from",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "desc": "Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy",
+      "desc": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially captu",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
     },
     {
       "rank": 8,
-      "title": "We Need Smart People Who Give a Shit",
-      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit",
-      "desc": "",
+      "title": "The Making of Oxygene",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "desc": "The full story of the ground-breaking Oxygene album and how it has been re-imagined for Dolby Atmos",
       "tag": "综合",
       "sources": [
-        "lobsters"
+        "hackernews"
       ],
-      "score": 47.0
+      "score": 50.0
     },
     {
       "rank": 9,
-      "title": "Design for Understandability",
-      "url": "https://jschuster.org/blog/2026/11/19/design-for-understandability",
+      "title": "Vim Classic 8.3.1 released",
+      "url": "https://vim-classic.org/news/vim-8.3.1-released.html",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -106,10 +104,10 @@
     },
     {
       "rank": 10,
-      "title": "PostgreSQL 19 Released",
-      "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449",
+      "title": "Removing binder.c",
+      "url": "https://lwn.net/articles/1102982",
       "desc": "",
-      "tag": "数据库",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -117,10 +115,10 @@
     },
     {
       "rank": 11,
-      "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
-      "url": "https://social.anoxinon.de/@codeberg/117636454915265360",
-      "desc": "Note: codeberg's servers are up, it's just the domain that's gone. It works perfectly after adding the following line to /etc/hosts:\n217.197.84.140 codeberg.org\n\nUpdate: it's now up again, and the abo",
-      "tag": "AI/ML",
+      "title": "Visited links are purple",
+      "url": "https://dbushell.com/2026/11/16/visited-links",
+      "desc": "",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -128,8 +126,8 @@
     },
     {
       "rank": 12,
-      "title": "nginx2root",
-      "url": "https://xint.io/blog/nginx2root-remote-code-execution",
+      "title": "Announcing jj-musubi: live sync for Jujutsu",
+      "url": "https://www.serpentine.com/posts/2026/announcing-jj-musubi",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -146,7 +144,7 @@
       "sources": [
         "github"
       ],
-      "score": 42.3
+      "score": 42.6
     },
     {
       "rank": 14,
@@ -157,18 +155,18 @@
       "sources": [
         "github"
       ],
-      "score": 40.1
+      "score": 40.9
     },
     {
       "rank": 15,
-      "title": "[GitHub] duwqijlk/muse-protocol",
-      "url": "https://github.com/duwqijlk/muse-protocol",
-      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-      "tag": "综合",
+      "title": "[GitHub] CzzzzzzJ/mdldm-maitian",
+      "url": "https://github.com/czzzzzzj/mdldm-maitian",
+      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "tag": "AI/ML",
       "sources": [
         "github"
       ],
-      "score": 40.0
+      "score": 40.1
     }
   ]
 }
