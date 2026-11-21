@@ -1,10 +1,22 @@
 {
-  "date": "2026-11-20",
-  "count": 15,
+  "date": "2026-11-21",
+  "count": 13,
   "items": [
     {
       "rank": 1,
-      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet",
+      "desc": "Upload at 2.4 Gbps, download at 600 Mbps, same cable and same adapter. Here",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "url": "https://alpo.ge/remark.pdf",
       "desc": "",
       "tag": "AI/ML",
@@ -15,7 +27,7 @@
       "score": 56.0
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "[GitHub] erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
       "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
@@ -26,7 +38,7 @@
       "score": 50.0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "[GitHub] krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/wireless-device-battery-monitor",
       "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
@@ -37,22 +49,11 @@
       "score": 50.0
     },
     {
-      "rank": 4,
-      "title": "I'll never buy Framework hardware again",
-      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again",
-      "desc": "TL;DR: We bought a 3000 EUR Framework Laptop 16 for one of our developers. It was broken out of the box. Three months, around thirty support emails, two replacement parts and a trip to their repair ce",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
       "rank": 5,
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "desc": "In the early 1960s, Richard Feynman gave a series of undergraduate lectures that were collected into a book called the Feynman Lectures on Physics. Absent from",
-      "tag": "AI/ML",
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "desc": "",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -60,10 +61,10 @@
     },
     {
       "rank": 6,
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "desc": "Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual",
-      "tag": "AI/ML",
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "desc": "",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -71,9 +72,9 @@
     },
     {
       "rank": 7,
-      "title": "Signal Is Serious About Protecting Your Privacy",
-      "url": "https://signal.org/blog/protecting-your-privacy",
-      "desc": "Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially captu",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh",
+      "desc": "Hi everyone, I am at the American Mathematical Society Executive Committee and Board of Trustees meeting now, and about to chair an hours-long meeting, but this is urgent, so I will try to get this…",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -82,9 +83,9 @@
     },
     {
       "rank": 8,
-      "title": "The Making of Oxygene",
-      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-      "desc": "The full story of the ground-breaking Oxygene album and how it has been re-imagined for Dolby Atmos",
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -93,21 +94,21 @@
     },
     {
       "rank": 9,
-      "title": "Vim Classic 8.3.1 released",
-      "url": "https://vim-classic.org/news/vim-8.3.1-released.html",
-      "desc": "",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini",
+      "desc": "Inkling 2 Mini is an open-weights model small enough to run on your laptop. It loops its middle layers to reason more per token and reach answers in fewer tokens.",
       "tag": "综合",
       "sources": [
-        "lobsters"
+        "hackernews"
       ],
-      "score": 47.0
+      "score": 50.0
     },
     {
       "rank": 10,
-      "title": "Removing binder.c",
-      "url": "https://lwn.net/articles/1102982",
+      "title": "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil",
       "desc": "",
-      "tag": "综合",
+      "tag": "AI/ML",
       "sources": [
         "lobsters"
       ],
@@ -115,28 +116,6 @@
     },
     {
       "rank": 11,
-      "title": "Visited links are purple",
-      "url": "https://dbushell.com/2026/11/16/visited-links",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 12,
-      "title": "Announcing jj-musubi: live sync for Jujutsu",
-      "url": "https://www.serpentine.com/posts/2026/announcing-jj-musubi",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 13,
       "title": "[GitHub] gylive/google-ultra",
       "url": "https://github.com/gylive/google-ultra",
       "desc": "",
@@ -144,10 +123,10 @@
       "sources": [
         "github"
       ],
-      "score": 42.6
+      "score": 42.7
     },
     {
-      "rank": 14,
+      "rank": 12,
       "title": "[GitHub] Hut-hzf/ung220z-tool",
       "url": "https://github.com/hut-hzf/ung220z-tool",
       "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
@@ -155,18 +134,18 @@
       "sources": [
         "github"
       ],
-      "score": 40.9
+      "score": 41.6
     },
     {
-      "rank": 15,
-      "title": "[GitHub] CzzzzzzJ/mdldm-maitian",
-      "url": "https://github.com/czzzzzzj/mdldm-maitian",
-      "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "rank": 13,
+      "title": "[GitHub] bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
       "tag": "AI/ML",
       "sources": [
         "github"
       ],
-      "score": 40.1
+      "score": 41.0
     }
   ]
 }
