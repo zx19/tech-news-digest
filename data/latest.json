@@ -1,45 +1,47 @@
 {
-  "date": "2026-11-22",
-  "count": 15,
+  "date": "2026-11-23",
+  "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "[GitHub] ItsNotRexed/Leonida",
-      "url": "https://github.com/itsnotrexed/leonida",
-      "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha",
+      "desc": "Alpha builds of Ladybird are available today for macOS and Linux. They",
       "tag": "综合",
       "sources": [
-        "github"
+        "lobsters",
+        "hackernews"
       ],
-      "score": 50.0
+      "score": 56.0
     },
     {
       "rank": 2,
-      "title": "[GitHub] erkamyaman/rust-anything",
-      "url": "https://github.com/erkamyaman/rust-anything",
-      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-      "tag": "语言/框架",
+      "title": "Let's Meet in the Middle",
+      "url": "https://george.mand.is/2026/11/lets-meet-in-the-middle",
+      "desc": "Geocode two addresses, average them with jq, and search for bars at the midpoint. Three small CLI tools, no API keys, and one river I forgot about.",
+      "tag": "综合",
       "sources": [
-        "github"
+        "lobsters",
+        "hackernews"
       ],
-      "score": 50.0
+      "score": 53.0
     },
     {
       "rank": 3,
-      "title": "[GitHub] krisgfx9/Wireless-Device-Battery-Monitor",
-      "url": "https://github.com/krisgfx9/wireless-device-battery-monitor",
-      "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "desc": "The Nvidia board said it had input from senior levels of the U.S. government.",
       "tag": "综合",
       "sources": [
-        "github"
+        "hackernews"
       ],
       "score": 50.0
     },
     {
       "rank": 4,
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs",
-      "desc": "Japan’s automakers will work together to lower production costs as they band together to compete against China’s growing automotive sector.",
+      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "url": "https://arm.jonpalmisc.com",
+      "desc": "This site offers reference documentation for the AArch64 instruction set and system registers defined by the Armv8-A and Armv9-A architectures.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -48,9 +50,9 @@
     },
     {
       "rank": 5,
-      "title": "A real Linux kernel, compiled to WebAssembly",
-      "url": "https://github.com/pithings/unkernel",
-      "desc": "A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second. - pithings/unkernel",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -59,9 +61,9 @@
     },
     {
       "rank": 6,
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "desc": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "desc": "A private email and calendar with a @kagimail.com address, or with your own domains.",
       "tag": "AI/ML",
       "sources": [
         "hackernews"
@@ -70,10 +72,10 @@
     },
     {
       "rank": 7,
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
-      "desc": "Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a pro",
-      "tag": "综合",
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "desc": "Dario&#x27;s spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *he* would stay in control. He left OpenAI because he wasn&#x27;t going to have co",
+      "tag": "AI/ML",
       "sources": [
         "hackernews"
       ],
@@ -81,21 +83,21 @@
     },
     {
       "rank": 8,
-      "title": "Sandwich Simulator",
-      "url": "https://stulle.app",
-      "desc": "Schmier eine Scheibe Brot, leg was drauf und mach ein Foto. Es bekommt eine Nummer und einen Link.",
+      "title": "Signal is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "lobsters"
       ],
-      "score": 50.0
+      "score": 47.0
     },
     {
       "rank": 9,
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "title": "GitHub Actions accepts invalid YAML",
+      "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml",
       "desc": "",
-      "tag": "AI/ML",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -103,69 +105,14 @@
     },
     {
       "rank": 10,
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet",
+      "title": "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
+      "url": "https://lambdacreate.com/posts/held-together-by-spare-time",
       "desc": "",
       "tag": "综合",
       "sources": [
         "lobsters"
       ],
       "score": 47.0
-    },
-    {
-      "rank": 11,
-      "title": "NixOS bring-up on an Alibaba RISC-V board",
-      "url": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 12,
-      "title": "Advice for the next 100 Rust GUIs",
-      "url": "https://linebender.org/blog/next-100-guis",
-      "desc": "",
-      "tag": "语言/框架",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 13,
-      "title": "What If Netscape Did SSL the HTTP Way?",
-      "url": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 14,
-      "title": "[GitHub] bookwjitchieni1986/blender-ai-mcp-addon",
-      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
-      "tag": "AI/ML",
-      "sources": [
-        "github"
-      ],
-      "score": 43.2
-    },
-    {
-      "rank": 15,
-      "title": "[GitHub] gylive/google-ultra",
-      "url": "https://github.com/gylive/google-ultra",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 43.0
     }
   ]
 }
