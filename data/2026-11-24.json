@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-24",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "2035 came early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "desc": "tl;dr trynix.dev boots GUI programs now. Try solitaire, GL gears, xeyes, a voice, the weather over curl, or Firefox. I remember watching the talk The Birth &amp; Death of JavaScript by Gary Bernhardt ",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "[GitHub] Marvisak/VIctory",
+      "url": "https://github.com/marvisak/victory",
+      "desc": "An attempt at running GTA VI on PC",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "[GitHub] xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Jetty Pro",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Mechanical Pencil: Spray Bottle",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "desc": "Illustrating the Engineering Around Us",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "desc": "I built an Instagram-to-Bandcamp tool with Claude, but when the API broke, the model refused to help me work around it, while happily downloading from YouTube instead, which pays the artist nothing. T",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "Quad9 pulled their DNS service from France",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france",
+      "desc": "A public and free DNS service for a better security and privacy",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 9,
+      "title": "Security incident on Hex.pm",
+      "url": "https://hex.pm/blog/security-incident-on-hexpm",
+      "desc": "",
+      "tag": "安全",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "What VP != VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] EL4CTEO/fast-anything",
+      "url": "https://github.com/el4cteo/fast-anything",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 45.7
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] AFK-surf/xnulinux",
+      "url": "https://github.com/afk-surf/xnulinux",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 44.6
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.4
+    }
+  ]
+}
