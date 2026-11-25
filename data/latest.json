@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "2035 came early",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "desc": "tl;dr trynix.dev boots GUI programs now. Try solitaire, GL gears, xeyes, a voice, the weather over curl, or Firefox. I remember watching the talk The Birth &amp; Death of JavaScript by Gary Bernhardt ",
-      "tag": "综合",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "desc": "1Password identified a security incident involving some of our backend systems. Customer vaults were not accessed and remain secure.",
+      "tag": "安全",
       "sources": [
         "lobsters",
         "hackernews"
@@ -16,6 +16,18 @@
     },
     {
       "rank": 2,
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 53.0
+    },
+    {
+      "rank": 3,
       "title": "[GitHub] Marvisak/VIctory",
       "url": "https://github.com/marvisak/victory",
       "desc": "An attempt at running GTA VI on PC",
@@ -26,7 +38,7 @@
       "score": 50.0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "[GitHub] xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
       "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
@@ -37,21 +49,10 @@
       "score": 50.0
     },
     {
-      "rank": 4,
-      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "desc": "",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
       "rank": 5,
-      "title": "Jetty Pro",
-      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "desc": "",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "desc": "He found it teeming with life and beauty.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -60,9 +61,9 @@
     },
     {
       "rank": 6,
-      "title": "Mechanical Pencil: Spray Bottle",
-      "url": "https://mechanical-pencil.com/products/spray-bottle",
-      "desc": "Illustrating the Engineering Around Us",
+      "title": "Investigating degraded experiences across GitHub products",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "desc": "GitHub&#39;s Status Page - Investigating degraded experiences across GitHub products.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -71,10 +72,10 @@
     },
     {
       "rank": 7,
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
-      "desc": "I built an Instagram-to-Bandcamp tool with Claude, but when the API broke, the model refused to help me work around it, while happily downloading from YouTube instead, which pays the artist nothing. T",
-      "tag": "AI/ML",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "desc": "Google Research. Contribute to google-research/google-research development by creating an account on GitHub.",
+      "tag": "综合",
       "sources": [
         "hackernews"
       ],
@@ -82,9 +83,9 @@
     },
     {
       "rank": 8,
-      "title": "Quad9 pulled their DNS service from France",
-      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france",
-      "desc": "A public and free DNS service for a better security and privacy",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "desc": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire - xoxorwr/pw-loudness-eq",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -93,21 +94,21 @@
     },
     {
       "rank": 9,
-      "title": "Security incident on Hex.pm",
-      "url": "https://hex.pm/blog/security-incident-on-hexpm",
-      "desc": "",
-      "tag": "安全",
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com",
+      "desc": "A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed via NPM.",
+      "tag": "综合",
       "sources": [
-        "lobsters"
+        "hackernews"
       ],
-      "score": 47.0
+      "score": 50.0
     },
     {
       "rank": 10,
-      "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
-      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update",
       "desc": "",
-      "tag": "综合",
+      "tag": "语言/框架",
       "sources": [
         "lobsters"
       ],
@@ -115,10 +116,10 @@
     },
     {
       "rank": 11,
-      "title": "Ladybird is now in alpha",
-      "url": "https://ladybird.org/posts/alpha",
+      "title": "Optimizing Rustc's next trait solver",
+      "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
       "desc": "",
-      "tag": "综合",
+      "tag": "语言/框架",
       "sources": [
         "lobsters"
       ],
@@ -126,8 +127,8 @@
     },
     {
       "rank": 12,
-      "title": "What VP != VNP Means (In 3 Minutes)",
-      "url": "https://www.friedgil.com/vpvnp",
+      "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
+      "url": "https://wheybags.com/blog/pokemon_childhood_version.html",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -144,7 +145,7 @@
       "sources": [
         "github"
       ],
-      "score": 45.7
+      "score": 46.7
     },
     {
       "rank": 14,
@@ -155,18 +156,18 @@
       "sources": [
         "github"
       ],
-      "score": 44.6
+      "score": 46.5
     },
     {
       "rank": 15,
-      "title": "[GitHub] iamajmeena/neonclipping",
-      "url": "https://github.com/iamajmeena/neonclipping",
-      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "title": "[GitHub] 4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 42.4
+      "score": 46.1
     }
   ]
 }
