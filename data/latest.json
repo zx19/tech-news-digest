@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "desc": "1Password identified a security incident involving some of our backend systems. Customer vaults were not accessed and remain secure.",
-      "tag": "安全",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog",
+      "desc": "I feel like my previous posts (and post titles), and podcasts, and talks, have failed to do full justice to the magnitude of what&#8217;s now happening, so I&#8217;m trying again. Last night, we ha…",
+      "tag": "综合",
       "sources": [
         "lobsters",
         "hackernews"
@@ -16,18 +16,30 @@
     },
     {
       "rank": 2,
-      "title": "I checked Clojure's core with Lean and found unreported bugs",
-      "url": "https://s.conao3.com/blog/2026/e4f733",
-      "desc": "",
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides",
+      "desc": "A library of every single UI style guide and guideline document",
       "tag": "综合",
       "sources": [
         "lobsters",
         "hackernews"
       ],
-      "score": 53.0
+      "score": 56.0
     },
     {
       "rank": 3,
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "desc": "",
+      "tag": "安全",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 4,
       "title": "[GitHub] Marvisak/VIctory",
       "url": "https://github.com/marvisak/victory",
       "desc": "An attempt at running GTA VI on PC",
@@ -38,7 +50,7 @@
       "score": 50.0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "[GitHub] xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
       "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
@@ -49,32 +61,21 @@
       "score": 50.0
     },
     {
-      "rank": 5,
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-      "desc": "He found it teeming with life and beauty.",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
       "rank": 6,
-      "title": "Investigating degraded experiences across GitHub products",
-      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-      "desc": "GitHub&#39;s Status Page - Investigating degraded experiences across GitHub products.",
+      "title": "[GitHub] 4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "tag": "综合",
       "sources": [
-        "hackernews"
+        "github"
       ],
       "score": 50.0
     },
     {
       "rank": 7,
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "desc": "Google Research. Contribute to google-research/google-research development by creating an account on GitHub.",
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "desc": "Intel One Mono font repository. Contribute to intel/intel-one-mono development by creating an account on GitHub.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -83,9 +84,9 @@
     },
     {
       "rank": 8,
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "desc": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire - xoxorwr/pw-loudness-eq",
+      "title": "Tell HN: Happy Thanksgiving",
+      "url": "https://news.ycombinator.com/item",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -94,10 +95,10 @@
     },
     {
       "rank": 9,
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com",
-      "desc": "A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed via NPM.",
-      "tag": "综合",
+      "title": "Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app",
+      "desc": "The Euro-Office Desktop app is here. Learn about the app’s features, how to install it, and how to co-edit files with your team.",
+      "tag": "云原生",
       "sources": [
         "hackernews"
       ],
@@ -105,36 +106,36 @@
     },
     {
       "rank": 10,
-      "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update",
-      "desc": "",
-      "tag": "语言/框架",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "desc": "The NYT doesn’t want AI metadata inadvertently added to its photos.",
+      "tag": "AI/ML",
       "sources": [
-        "lobsters"
+        "hackernews"
       ],
-      "score": 47.0
+      "score": 50.0
     },
     {
       "rank": 11,
-      "title": "Optimizing Rustc's next trait solver",
-      "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
-      "desc": "",
-      "tag": "语言/框架",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 12,
-      "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
-      "url": "https://wheybags.com/blog/pokemon_childhood_version.html",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20lions%27%20commentary%20on%20unix",
       "desc": "",
       "tag": "综合",
       "sources": [
-        "lobsters"
+        "hackernews"
       ],
-      "score": 47.0
+      "score": 50.0
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] AFK-surf/xnulinux",
+      "url": "https://github.com/afk-surf/xnulinux",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 47.6
     },
     {
       "rank": 13,
@@ -145,29 +146,29 @@
       "sources": [
         "github"
       ],
-      "score": 46.7
+      "score": 47.6
     },
     {
       "rank": 14,
-      "title": "[GitHub] AFK-surf/xnulinux",
-      "url": "https://github.com/afk-surf/xnulinux",
-      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "title": "How WinHelp files work",
+      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "lobsters"
       ],
-      "score": 46.5
+      "score": 47.0
     },
     {
       "rank": 15,
-      "title": "[GitHub] 4lwayz/portwatch-vi",
-      "url": "https://github.com/4lwayz/portwatch-vi",
-      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "tag": "综合",
+      "title": "Entering the Geminispace",
+      "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+      "desc": "",
+      "tag": "AI/ML",
       "sources": [
-        "github"
+        "lobsters"
       ],
-      "score": 46.1
+      "score": 47.0
     }
   ]
 }

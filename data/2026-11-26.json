@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-26",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog",
+      "desc": "I feel like my previous posts (and post titles), and podcasts, and talks, have failed to do full justice to the magnitude of what&#8217;s now happening, so I&#8217;m trying again. Last night, we ha…",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides",
+      "desc": "A library of every single UI style guide and guideline document",
+      "tag": "综合",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 3,
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "desc": "",
+      "tag": "安全",
+      "sources": [
+        "lobsters",
+        "hackernews"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 4,
+      "title": "[GitHub] Marvisak/VIctory",
+      "url": "https://github.com/marvisak/victory",
+      "desc": "An attempt at running GTA VI on PC",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "[GitHub] xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "[GitHub] 4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "desc": "Intel One Mono font repository. Contribute to intel/intel-one-mono development by creating an account on GitHub.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "Tell HN: Happy Thanksgiving",
+      "url": "https://news.ycombinator.com/item",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 9,
+      "title": "Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app",
+      "desc": "The Euro-Office Desktop app is here. Learn about the app’s features, how to install it, and how to co-edit files with your team.",
+      "tag": "云原生",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 10,
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "desc": "The NYT doesn’t want AI metadata inadvertently added to its photos.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 11,
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20lions%27%20commentary%20on%20unix",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 12,
+      "title": "[GitHub] AFK-surf/xnulinux",
+      "url": "https://github.com/afk-surf/xnulinux",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 47.6
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] EL4CTEO/fast-anything",
+      "url": "https://github.com/el4cteo/fast-anything",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 47.6
+    },
+    {
+      "rank": 14,
+      "title": "How WinHelp files work",
+      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 15,
+      "title": "Entering the Geminispace",
+      "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    }
+  ]
+}
