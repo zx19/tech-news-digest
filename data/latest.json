@@ -1,45 +1,33 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog",
-      "desc": "I feel like my previous posts (and post titles), and podcasts, and talks, have failed to do full justice to the magnitude of what&#8217;s now happening, so I&#8217;m trying again. Last night, we ha…",
-      "tag": "综合",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "desc": "I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that ",
+      "tag": "AI/ML",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
       "score": 56.0
     },
     {
       "rank": 2,
-      "title": "Collection of preserved UI style guides",
-      "url": "https://aresluna.org/ui-style-guides",
-      "desc": "A library of every single UI style guide and guideline document",
-      "tag": "综合",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language",
+      "desc": "The culture of software engineering has to change, and that will take many different projects to achieve.",
+      "tag": "AI/ML",
       "sources": [
-        "lobsters",
-        "hackernews"
+        "hackernews",
+        "lobsters"
       ],
       "score": 56.0
     },
     {
       "rank": 3,
-      "title": "Slow Ubuntu security response times",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "desc": "",
-      "tag": "安全",
-      "sources": [
-        "lobsters",
-        "hackernews"
-      ],
-      "score": 56.0
-    },
-    {
-      "rank": 4,
       "title": "[GitHub] Marvisak/VIctory",
       "url": "https://github.com/marvisak/victory",
       "desc": "An attempt at running GTA VI on PC",
@@ -50,18 +38,7 @@
       "score": 50.0
     },
     {
-      "rank": 5,
-      "title": "[GitHub] xcl-dev/xcl",
-      "url": "https://github.com/xcl-dev/xcl",
-      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "[GitHub] 4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
       "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
@@ -72,10 +49,32 @@
       "score": 50.0
     },
     {
+      "rank": 5,
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com",
+      "desc": "a ball will fall. trade on where it lands.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Group chat where your AI talks behind your back",
+      "url": "https://construct22.com",
+      "desc": "Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you. The results are hilarious - and a mirror of everything it knows about you.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
       "rank": 7,
-      "title": "Intel One Mono font",
-      "url": "https://github.com/intel/intel-one-mono",
-      "desc": "Intel One Mono font repository. Contribute to intel/intel-one-mono development by creating an account on GitHub.",
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -84,61 +83,6 @@
     },
     {
       "rank": 8,
-      "title": "Tell HN: Happy Thanksgiving",
-      "url": "https://news.ycombinator.com/item",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 9,
-      "title": "Nextcloud Office Desktop app",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app",
-      "desc": "The Euro-Office Desktop app is here. Learn about the app’s features, how to install it, and how to co-edit files with your team.",
-      "tag": "云原生",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 10,
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "desc": "The NYT doesn’t want AI metadata inadvertently added to its photos.",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 11,
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "url": "https://fosscomics.com/posts/17.%20lions%27%20commentary%20on%20unix",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "hackernews"
-      ],
-      "score": 50.0
-    },
-    {
-      "rank": 12,
-      "title": "[GitHub] AFK-surf/xnulinux",
-      "url": "https://github.com/afk-surf/xnulinux",
-      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-      "tag": "综合",
-      "sources": [
-        "github"
-      ],
-      "score": 47.6
-    },
-    {
-      "rank": 13,
       "title": "[GitHub] EL4CTEO/fast-anything",
       "url": "https://github.com/el4cteo/fast-anything",
       "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
@@ -146,12 +90,45 @@
       "sources": [
         "github"
       ],
-      "score": 47.6
+      "score": 48.3
     },
     {
-      "rank": 14,
-      "title": "How WinHelp files work",
-      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "rank": 9,
+      "title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+      "url": "https://roboticoverlords.org/tinyhat",
+      "desc": "Tiny Hat uses only around 100MB of RAM after booting, and can be booted from a &gt;= 1GB memory stick. It comes with a few small games, an easy way to install and run more games and several example pr",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "Taking Email Back",
+      "url": "http://www.linux-magazine.com/online/features/taking-email-back",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "What are you doing this weekend?",
+      "url": "https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend",
+      "desc": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback.\nPlease keep in mind it’s more than OK to do nothing at all too!",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "The State of Allocators in 2026 - Finally Stabilised",
+      "url": "https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -160,15 +137,37 @@
       "score": 47.0
     },
     {
-      "rank": 15,
-      "title": "Entering the Geminispace",
-      "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+      "rank": 13,
+      "title": "Pimalaya goes stable",
+      "url": "https://blog.pimalaya.org/pimalaya-goes-stable",
       "desc": "",
-      "tag": "AI/ML",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
       "score": 47.0
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 45.0
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.8
     }
   ]
 }

@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-27",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "desc": "I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that ",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 2,
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language",
+      "desc": "The culture of software engineering has to change, and that will take many different projects to achieve.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews",
+        "lobsters"
+      ],
+      "score": 56.0
+    },
+    {
+      "rank": 3,
+      "title": "[GitHub] Marvisak/VIctory",
+      "url": "https://github.com/marvisak/victory",
+      "desc": "An attempt at running GTA VI on PC",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "[GitHub] 4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com",
+      "desc": "a ball will fall. trade on where it lands.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Group chat where your AI talks behind your back",
+      "url": "https://construct22.com",
+      "desc": "Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you. The results are hilarious - and a mirror of everything it knows about you.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "[GitHub] EL4CTEO/fast-anything",
+      "url": "https://github.com/el4cteo/fast-anything",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 48.3
+    },
+    {
+      "rank": 9,
+      "title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+      "url": "https://roboticoverlords.org/tinyhat",
+      "desc": "Tiny Hat uses only around 100MB of RAM after booting, and can be booted from a &gt;= 1GB memory stick. It comes with a few small games, an easy way to install and run more games and several example pr",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "Taking Email Back",
+      "url": "http://www.linux-magazine.com/online/features/taking-email-back",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "What are you doing this weekend?",
+      "url": "https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend",
+      "desc": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback.\nPlease keep in mind it’s more than OK to do nothing at all too!",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "The State of Allocators in 2026 - Finally Stabilised",
+      "url": "https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "Pimalaya goes stable",
+      "url": "https://blog.pimalaya.org/pimalaya-goes-stable",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 45.0
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 42.8
+    }
+  ]
+}
