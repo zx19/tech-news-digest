@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-28",
+  "count": 15,
+  "items": [
+    {
+      "rank": 1,
+      "title": "[GitHub] Marvisak/VIctory",
+      "url": "https://github.com/marvisak/victory",
+      "desc": "An attempt at running GTA VI on PC",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 2,
+      "title": "[GitHub] trustno1-coder/VIctory-NVIDIA",
+      "url": "https://github.com/trustno1-coder/victory-nvidia",
+      "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats pan",
+      "tag": "语言/框架",
+      "sources": [
+        "github"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 3,
+      "title": "Farewell",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "desc": "Dear friends of Heretic, as foreshadowed a while ago, my journey has now come to an end. Unfortunately, this includes my work on Heretic, which has meant so much to me. I sincerely regret the incon...",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 4,
+      "title": "Audible removes download option for purchased audiobooks",
+      "url": "https://consumerrights.wiki/w/audible_removes_download_option_for_purchased_audiobooks",
+      "desc": "Audible removed the direct audiobook download option from its US website. Its help now names Cloud Player streaming and the Windows app AudibleSync.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "desc": "",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 6,
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "desc": "A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 7,
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "desc": "By re-envisioning weaving, knitting and braiding as a series of yarn twisting processes, researchers built a machine that can switch between them and create novel shapes.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 8,
+      "title": "So, I rewrote my game in C3",
+      "url": "https://www.madrigalgames.com/blog/so-i-rewrote-my-game-in-c3",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 9,
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 10,
+      "title": "Objections to .php application being published on ICANN site",
+      "url": "https://pub.roddie.digital/3n3aavxi6hc2g",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 11,
+      "title": "Why optimistic updates are corrosive",
+      "url": "https://datastar-instant-intent.ndyg.cross.stream/corrosive",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 12,
+      "title": "A story about Minecraft, Bukkit, and the GPL",
+      "url": "https://jwheel.org/blog/2020/04/open-source-minecraft-bukkit-gpl",
+      "desc": "",
+      "tag": "综合",
+      "sources": [
+        "lobsters"
+      ],
+      "score": 47.0
+    },
+    {
+      "rank": 13,
+      "title": "[GitHub] fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 45.1
+    },
+    {
+      "rank": 14,
+      "title": "[GitHub] ProjectLeonida/mandy",
+      "url": "https://github.com/projectleonida/mandy",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 44.5
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame",
+      "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 43.5
+    }
+  ]
+}

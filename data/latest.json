@@ -1,33 +1,9 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "count": 15,
   "items": [
     {
       "rank": 1,
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "desc": "I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that ",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews",
-        "lobsters"
-      ],
-      "score": 56.0
-    },
-    {
-      "rank": 2,
-      "title": "The need for a formally verifiable mainstream programming language",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language",
-      "desc": "The culture of software engineering has to change, and that will take many different projects to achieve.",
-      "tag": "AI/ML",
-      "sources": [
-        "hackernews",
-        "lobsters"
-      ],
-      "score": 56.0
-    },
-    {
-      "rank": 3,
       "title": "[GitHub] Marvisak/VIctory",
       "url": "https://github.com/marvisak/victory",
       "desc": "An attempt at running GTA VI on PC",
@@ -38,21 +14,21 @@
       "score": 50.0
     },
     {
-      "rank": 4,
-      "title": "[GitHub] 4lwayz/portwatch-vi",
-      "url": "https://github.com/4lwayz/portwatch-vi",
-      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "tag": "综合",
+      "rank": 2,
+      "title": "[GitHub] trustno1-coder/VIctory-NVIDIA",
+      "url": "https://github.com/trustno1-coder/victory-nvidia",
+      "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats pan",
+      "tag": "语言/框架",
       "sources": [
         "github"
       ],
       "score": 50.0
     },
     {
-      "rank": 5,
-      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-      "url": "https://bouncemarket.minhanhday.com",
-      "desc": "a ball will fall. trade on where it lands.",
+      "rank": 3,
+      "title": "Farewell",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "desc": "Dear friends of Heretic, as foreshadowed a while ago, my journey has now come to an end. Unfortunately, this includes my work on Heretic, which has meant so much to me. I sincerely regret the incon...",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -60,10 +36,21 @@
       "score": 50.0
     },
     {
-      "rank": 6,
-      "title": "Group chat where your AI talks behind your back",
-      "url": "https://construct22.com",
-      "desc": "Ask ChatGPT to expose the hidden WhatsApp group where AI models gossip about you. The results are hilarious - and a mirror of everything it knows about you.",
+      "rank": 4,
+      "title": "Audible removes download option for purchased audiobooks",
+      "url": "https://consumerrights.wiki/w/audible_removes_download_option_for_purchased_audiobooks",
+      "desc": "Audible removed the direct audiobook download option from its US website. Its help now names Cloud Player streaming and the Windows app AudibleSync.",
+      "tag": "综合",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
+      "rank": 5,
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "desc": "",
       "tag": "AI/ML",
       "sources": [
         "hackernews"
@@ -71,10 +58,10 @@
       "score": 50.0
     },
     {
-      "rank": 7,
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "url": "https://eprint.iacr.org/2026/3020.pdf",
-      "desc": "",
+      "rank": 6,
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "desc": "A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.",
       "tag": "综合",
       "sources": [
         "hackernews"
@@ -82,21 +69,32 @@
       "score": 50.0
     },
     {
+      "rank": 7,
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "desc": "By re-envisioning weaving, knitting and braiding as a series of yarn twisting processes, researchers built a machine that can switch between them and create novel shapes.",
+      "tag": "AI/ML",
+      "sources": [
+        "hackernews"
+      ],
+      "score": 50.0
+    },
+    {
       "rank": 8,
-      "title": "[GitHub] EL4CTEO/fast-anything",
-      "url": "https://github.com/el4cteo/fast-anything",
-      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "title": "So, I rewrote my game in C3",
+      "url": "https://www.madrigalgames.com/blog/so-i-rewrote-my-game-in-c3",
+      "desc": "",
       "tag": "综合",
       "sources": [
-        "github"
+        "lobsters"
       ],
-      "score": 48.3
+      "score": 47.0
     },
     {
       "rank": 9,
-      "title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
-      "url": "https://roboticoverlords.org/tinyhat",
-      "desc": "Tiny Hat uses only around 100MB of RAM after booting, and can be booted from a &gt;= 1GB memory stick. It comes with a few small games, an easy way to install and run more games and several example pr",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -105,10 +103,10 @@
     },
     {
       "rank": 10,
-      "title": "Taking Email Back",
-      "url": "http://www.linux-magazine.com/online/features/taking-email-back",
+      "title": "Objections to .php application being published on ICANN site",
+      "url": "https://pub.roddie.digital/3n3aavxi6hc2g",
       "desc": "",
-      "tag": "AI/ML",
+      "tag": "综合",
       "sources": [
         "lobsters"
       ],
@@ -116,9 +114,9 @@
     },
     {
       "rank": 11,
-      "title": "What are you doing this weekend?",
-      "url": "https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend",
-      "desc": "Feel free to tell what you plan on doing this weekend and even ask for help or feedback.\nPlease keep in mind it’s more than OK to do nothing at all too!",
+      "title": "Why optimistic updates are corrosive",
+      "url": "https://datastar-instant-intent.ndyg.cross.stream/corrosive",
+      "desc": "",
       "tag": "综合",
       "sources": [
         "lobsters"
@@ -127,8 +125,8 @@
     },
     {
       "rank": 12,
-      "title": "The State of Allocators in 2026 - Finally Stabilised",
-      "url": "https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised",
+      "title": "A story about Minecraft, Bukkit, and the GPL",
+      "url": "https://jwheel.org/blog/2020/04/open-source-minecraft-bukkit-gpl",
       "desc": "",
       "tag": "综合",
       "sources": [
@@ -138,17 +136,6 @@
     },
     {
       "rank": 13,
-      "title": "Pimalaya goes stable",
-      "url": "https://blog.pimalaya.org/pimalaya-goes-stable",
-      "desc": "",
-      "tag": "综合",
-      "sources": [
-        "lobsters"
-      ],
-      "score": 47.0
-    },
-    {
-      "rank": 14,
       "title": "[GitHub] fxceless/victory-fork",
       "url": "https://github.com/fxceless/victory-fork",
       "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
@@ -156,18 +143,29 @@
       "sources": [
         "github"
       ],
-      "score": 45.0
+      "score": 45.1
     },
     {
-      "rank": 15,
-      "title": "[GitHub] ubiquitarianism/leonida",
-      "url": "https://github.com/ubiquitarianism/leonida",
+      "rank": 14,
+      "title": "[GitHub] ProjectLeonida/mandy",
+      "url": "https://github.com/projectleonida/mandy",
       "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "tag": "综合",
       "sources": [
         "github"
       ],
-      "score": 42.8
+      "score": 44.5
+    },
+    {
+      "rank": 15,
+      "title": "[GitHub] nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame",
+      "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish",
+      "tag": "综合",
+      "sources": [
+        "github"
+      ],
+      "score": 43.5
     }
   ]
 }
